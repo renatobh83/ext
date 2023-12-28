@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Ingresso Para o Paraíso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kN3WwFUTvhYsLudncZlEgeh1fCu.jpg" group-title="Romance",Ingresso Para o Paraíso (2022)
+http://dns.acaidopara.net:8080/movie/agusta7/QsUzNt1Wwp/91899.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ingresso Para o Paraíso (2022) [QUALIDADE DE CINEMA]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kN3WwFUTvhYsLudncZlEgeh1fCu.jpg" group-title="Filmes: [Qualidade Cinema]",Ingresso Para o Paraíso (2022) [QUALIDADE DE CINEMA]
 http://srv.cldplay.net:80/movie/Jailton19982/Clicko20394/261329.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Besouro Azul (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5sdkgO4IJMTnkjh9PG7kREPWrP.jpg" group-title="Filmes da Semana",Besouro Azul (2023)
