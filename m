@@ -93,6 +93,8 @@ https://cdn-3.nxplay.com.br/DISCOVERY_KIDS_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER" tvg-logo="https://www.acstatic.co/logos/canais/warner.png" group-title="Canais | FILMES",WARNER HD
 https://cdn-3.nxplay.com.br/WARNER_CHANNEL/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT FULL HD ¹" tvg-logo="http://dns.panela.online:80/images/7a46b159e69398ca7cc2cb1cc654d55c.png" group-title="GLOBOSAT FILMES",TELECINE CULT FULL HD ¹
+http://dns.panela.online:80/Antonio01/Marcia01/194335
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://www.acstatic.co/logos/canais/amc.png" group-title="Canais | FILMES",AMC HD
 https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/tracks-v2a1/mono.m3u8
@@ -273,6 +275,38 @@ http://51.83.238.223:16171
 #EXTINF:-1 tvg-id="DISNEYJR" tvg-name="DISNEY JR" tvg-logo="https://www.acstatic.co/logos/canais/disneyjr.png" group-title="Canais | INFANTIL",DISNEY JR HD
 http://51.83.238.223:16274
 
+
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG FHD ¹" tvg-logo="http://dns.panela.online:80/images/8c9d96b1ef82662dd41a42e8528876b6.png" group-title="Canais | INFANTIL",BOOMERANG FHD ¹
+http://dns.panela.online:80/Antonio01/Marcia01/193934
+
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON FHD" tvg-logo="http://dns.panela.online:80/images/b11cc9ad84502b27a63fa7a8d813ef6a.png" group-title="Canais | INFANTIL",NICKELODEON FHD
+http://dns.panela.online:80/Antonio01/Marcia01/45667
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST" tvg-logo="http://printv.esy.es/server/Tooncast.png" group-title="INFANTIS",TOONCAST
+http://dns.panela.online:80/Antonio01/Marcia01/46040
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="CINE SKY PLAY 1 " tvg-logo="http://dns.panela.online:80/images/02a1cfdc14db5d5aabde8688e7037ba1.png" group-title="CINE SKY",CINE SKY PLAY 1 
+http://dns.panela.online:80/Antonio01/Marcia01/46263
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="CINE SKY PLAY 2 " tvg-logo="http://dns.panela.online:80/images/02a1cfdc14db5d5aabde8688e7037ba1.png" group-title="CINE SKY",CINE SKY PLAY 2 
+http://dns.panela.online:80/Antonio01/Marcia01/46264
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="CINE SKY PLAY 3 " tvg-logo="http://dns.panela.online:80/images/02a1cfdc14db5d5aabde8688e7037ba1.png" group-title="CINE SKY",CINE SKY PLAY 3 
+http://dns.panela.online:80/Antonio01/Marcia01/46265
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="CINE SKY PLAY 4 " tvg-logo="http://dns.panela.online:80/images/02a1cfdc14db5d5aabde8688e7037ba1.png" group-title="CINE SKY",CINE SKY PLAY 4 
+http://dns.panela.online:80/Antonio01/Marcia01/46266
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="CINE SKY PLAY 5" tvg-logo="http://dns.panela.online:80/images/02a1cfdc14db5d5aabde8688e7037ba1.png" group-title="CINE SKY",CINE SKY PLAY 5
+http://dns.panela.online:80/Antonio01/Marcia01/46267
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="CINE SKY PLAY 6" tvg-logo="http://dns.panela.online:80/images/02a1cfdc14db5d5aabde8688e7037ba1.png" group-title="CINE SKY",CINE SKY PLAY 6
+http://dns.panela.online:80/Antonio01/Marcia01/46268
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="CINE SKY PLAY 7" tvg-logo="http://dns.panela.online:80/images/02a1cfdc14db5d5aabde8688e7037ba1.png" group-title="CINE SKY",CINE SKY PLAY 7
+http://dns.panela.online:80/Antonio01/Marcia01/46269
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="CINE SKY PLAY 8 " tvg-logo="http://dns.panela.online:80/images/02a1cfdc14db5d5aabde8688e7037ba1.png" group-title="CINE SKY",CINE SKY PLAY 8 
+http://dns.panela.online:80/Antonio01/Marcia01/46270
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="CINE SKY PLAY 9 " tvg-logo="http://dns.panela.online:80/images/02a1cfdc14db5d5aabde8688e7037ba1.png" group-title="CINE SKY",CINE SKY PLAY 9 
+http://dns.panela.online:80/Antonio01/Marcia01/46271
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB FHD" tvg-logo="http://printv.esy.es/server/Gloob.png" group-title="Canais | INFANTIL",GLOOB FHD
+http://dns.panela.online:80/Antonio01/Marcia01/45699
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR FHD" tvg-logo="http://printv.esy.es/server/Nick%20Jr.%20HD.png" group-title="Canais | INFANTIL",NICK JR FHD
+http://dns.panela.online:80/Antonio01/Marcia01/45666
+
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://www.acstatic.co/logos/canais/combate.png" group-title="Canais | ESPORTES",COMBATE HD
 http://51.83.238.223:16417
 
@@ -285,11 +319,17 @@ http://51.83.238.223:16515
 #EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3" tvg-logo="https://uploaddeimagens.com.br/images/004/630/403/full/espn.png"group-title="Canais | ESPORTES",ESPN 3 HD
 http://51.83.238.223:16555
 
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL FHD ²" tvg-logo="http://dns.panela.online:80/images/83282983286657c78d4c05f5590b0b62.png" group-title=""Canais | INFANTIL",DISNEY CHANNEL FHD ²
+http://dns.panela.online:80/Antonio01/Marcia01/194015
+
 #EXTINF:-1 tvg-id="ESPN4" tvg-name="ESPN 4" tvg-logo="https://uploaddeimagens.com.br/images/004/630/403/full/espn.png" group-title="Canais | ESPORTES",ESPN 3 HD
 http://51.83.238.223:16575
 
 #EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://www.acstatic.co/logos/canais/globo.png" group-title="Canais | ABERTO",GLOBO HD
 http://51.83.238.223:16609
+
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK FHD ¹" tvg-logo="http://dns.panela.online:80/images/0086feb1d5a5acfff5c1ff786bb5f4d5.png" group-title="INFANTIS",CARTOON NETWORK FHD ¹
+http://dns.panela.online:80/Antonio01/Marcia01/193947
 
 
 #EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://www.acstatic.co/logos/canais/telecinepremium.png" group-title="Canais | FILMES",TELECINE PREMIUM HD
@@ -301,6 +341,12 @@ http://51.83.238.223:16703
 
 #EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="https://www.acstatic.co/logos/canais/telecinepipoca.png" group-title="Canais | FILMES",TELECINE PIPOCA HD
 http://51.83.238.223:16763
+
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH FULL HD ¹" tvg-logo="http://dns.panela.online:80/images/ce2ee416760435447ba64d685853b735.png" group-title="Canais | FILMES",TELECINE TOUCH FULL HD ¹
+http://dns.panela.online:80/Antonio01/Marcia01/194351
+
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN FULL HD ¹" tvg-logo="http://dns.panela.online:80/images/f704a02c6601e390f52465929693fe9e.png" group-title="Canais | FILMES",TELECINE FUN FULL HD ¹
+http://dns.panela.online:80/Antonio01/Marcia01/194339
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://www.acstatic.co/logos/canais/band.png" group-title="Canais | ABERTO",BAND HD
 http://51.83.238.223:16800
