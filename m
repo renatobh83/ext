@@ -325,4 +325,4 @@ http://51.83.238.223:16945
 http://51.83.238.223:16957
 
 #EXTINF:-1 tvg-id="FILME" tvg-name="FILME" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="Canais | FILME",O AMOR NAO TIRA FERIAS
-https://videos.nxplay.com.br/hls/4710311a663111ecbb5022cd9b05b90d/video_2.m3u8
+https://videos.nxplay.com.br/hls/4710311a663111ecbb5022cd9b05b90d/playlist.m3u8
