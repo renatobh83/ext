@@ -57,7 +57,7 @@ http://186.237.99.10/TNT_SERIES/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="TNTNOVELAS" tvg-name="TNT NOVELAS" tvg-logo="https://uploaddeimagens.com.br/images/004/521/306/original/tnt_novelas.png" group-title="Canais | FILMES",TNT NOVELAS HD
 http://186.237.99.10/TNT_NOVELAS/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://acstatic.co/logos/canais/tlc.png" group-title="Canais | VARIDADES",TLC HD
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://acstatic.co/logos/canais/tlc.png" group-title="Canais | VARIEDADES",TLC HD
 http://186.237.99.10/TLC_HD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="Canais | VARIEDADES",HISTORY HD
