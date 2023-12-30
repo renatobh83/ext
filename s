@@ -1,3 +1,4 @@
+#EXTMU
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="The Good Doctor: O Bom Doutor [2017] S02 E01" tvg-logo="https://www.themoviedb.org/t/p/w454_and_h254_bestv2/9ZglVukhrTwm1RH0LkO6ROYv3wa.jpg" group-title="SERIES T",The Good Doctor: O Bom Doutor [2017] S02 E01
 http://asd2.me:80/series/CleoniceJosefa/11952393856/10062703.mp4
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="The Good Doctor: O Bom Doutor [2017] S02 E02" tvg-logo="https://www.themoviedb.org/t/p/w454_and_h254_bestv2/2Zx9JcW2xMU4yQoP1XllMgK3sdU.jpg" group-title="SERIES T",The Good Doctor: O Bom Doutor [2017] S02 E02
