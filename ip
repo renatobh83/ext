@@ -1,194 +1,193 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="PFCLHD" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265" 
-http://185.150.190.225:16468 
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="PFCLHD" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265" 
-http://185.150.190.225:16476
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS FHD²" tvg-logo="http://www.rochagalaxia.live/logos/bandlogo480.png" group-title="CANAIS | ABERTOS",BAND  SPORTS FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS FHD²" tvg-logo="http://www.rochagalaxia.live/logos/bandlogo480.png" group-title="CANAIS | ABERTOS",BAND sport250.png" group-title="CANAIS | ESPORTES",#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS FHD²" tvg-logo="http://www.rochagalaxia.live/logos/bandlogo480.png" group-title="CANAIS | ABERTOS",BAND  SPORTS FHD H265" 
-http://185.150.190.225:16484
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="COMBATE FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/combat250.png" group-title="CANAIS | ESPORTES",COMBATE FHD H265" 
-http://185.150.190.225:16493
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="CANAIS | SPORTV",SPORTV FHD H265" 
-http://185.150.190.225:16020
-#EXTINF:-1 tvg-id="" tvg-name="SEM" 
-http://185.150.190.225:16097
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="GAZHD" tvg-name="TV GAZETA ALAGOAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s103722_ll_h3_aa.png" group-title="CANAIS | GLOBO",TV GLOBO" 
-http://185.150.190.225:16263
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="FASHION TV FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/FashionTV2019novo.png" group-title="CANAIS | VARIEDADES",FASHION TV FHD H265 TV" 
-http://185.150.190.225:14961 
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="GLOOB FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/GLOOB.jpg" group-title="CANAIS | INFANTIS",GLOOB FHD H265" 
-http://185.150.190.225:14674
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA FHD H265²" tvg-logo="https://rochagalaxia.live/logos/REDEVIDA.jpg" group-title="CANAIS | RELIGIOSOS",REDE VIDA
-http://185.150.190.225:14071
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="AXNB" tvg-name="AXN FHD H265" tvg-logo="http://fanc.tmsimg.com/assets/s16439_ll_h3_aa.png" group-title="CANAIS | FILMES E SERIES",AXN FHD H265" 
-http://64.31.40.14:14027
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="VIVA FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/VIVA.jpg" group-title="CANAIS | VARIEDADES",VIVA FHD H265" 
-http://64.31.40.14:14884
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="AEBR" tvg-name="A&E FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="CANAIS | FILMES E SERIES",A&E FHD H265" 
-http://64.31.40.14:14002
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="TCA" tvg-name="TELECINE ACTION FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/telecineaction250.png" group-title="CANAIS | REDE TELECINE",TELECINE ACTION FHD H265 " 
-http://64.31.40.14:14056
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="CINEMXB" tvg-name="CINEMAX FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" group-title="CANAIS | FILMES E SERIES",CINEMAX FHD H265" 
-http://64.31.40.14:14031
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="FXBHD" tvg-name="FX FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" group-title="CANAIS | FILMES E SERIES",FX FHD H265" 
-http://64.31.40.14:14043
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="PARAMBH" tvg-name="#EXTINF:-1 tvg-id="PARAMBH" tvg-name="PARAMOUNT FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT FHD H265 FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/#EXTINF:-1 tvg-id="PARAMBH" tvg-name="PARAMOUNT FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT FHD H265.png" group-title="CANAIS | FILMES E SERIES",#EXTINF:-1 tvg-id="PARAMBH" tvg-name="PARAMOUNT FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT FHD H265 FHD H265" 
-http://64.31.40.14:14058
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="REDE TV ESPÍRITO SANTO" tvg-logo="" group-title="CANAIS | ABERTOS",REDE TV " 
-http://64.31.40.14:14865
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="MGPIX" tvg-name="MEGAPIX FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX FHD H265" 
-http://64.31.40.14:14048
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="SETB" tvg-name="CANAL SONY FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/canaldasony250.png" group-title="CANAIS | FILMES E SERIES",CANAL SONY FHD H265 CHANNEL" 
-http://64.31.40.14:14063
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW FHD H265²" tvg-logo="https://rochagalaxia.live/logos/MULTISHOW.png" group-title="CANAIS | MUSICA",MULTISHOW FHD H265
-http://64.31.40.14:14712
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="AEBR" tvg-name="A&E FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="CANAIS | FILMES E SERIES",A&E FHD H265
-http://64.31.40.14:16002
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="PFCLHD" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265" 
-http://64.31.40.14:16291
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="GAZHD" tvg-name="TV GAZETA ALAGOAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s103722_ll_h3_aa.png" group-title="CANAIS | GLOBO",TV GLOBO" 
-http://64.31.40.14:16076
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="SPACEB" tvg-name="SPACE FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" group-title="CANAIS | FILMES E SERIES",SPACE FHD H265
-http://51.79.17.168:14562
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA FHD H265²" tvg-logo="https://rochagalaxia.live/logos/APARECIDA.jpg" group-title="CANAIS | RELIGIOSOS",TV APARECIDA FHD H265
-http://51.79.17.168:14682
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS FHD²" tvg-logo="http://www.rochagalaxia.live/logos/bandlogo480.png" group-title="CANAIS | ABERTOS",BAND
-http://51.79.17.168:14726
-#EXTINF:-1 tvg-id="" tvg-name="TV RATIMBUM FHD H265²" tvg-logo="https://www.rochagalaxia.live/logos/TVRATIMBUM.png" group-title="CANAIS | INFANTIS",TV RATIMBUM FHD H265
-http://51.79.17.168:14687
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="MGPIX" tvg-name="MEGAPIX FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX FHD H265"
-http://51.79.17.168:14410
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="NICK JR FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/nick-jr-logo.png" group-title="CANAIS | INFANTIS",NICK JR FHD H265"
-http://51.79.17.168:14451
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="BRZTBSH" tvg-name="TNT Novelas FHD H265" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/TNT_novelas.jpg" group-title="CANAIS | FILMES E SERIES",TNT Novelas FHD H265ELAS"
-http://51.79.17.168:14613
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="NICK FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/Nickelodeon-logo.png" group-title="CANAIS | INFANTIS",NICK FHD H265DEON"
-http://51.79.17.168:14457
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="TNTHDB" tvg-name="TNT FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" group-title="CANAIS | FILMES E SERIES",TNT FHD H265"
-http://51.79.17.168:14658
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="TCTCH" tvg-name="TELECINE TOUCH FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/TCTOUCH.png" group-title="CANAIS | REDE TELECINE",TELECINE TOUCH FHD H265CH"
-http://51.79.17.168:14420
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA FHD H265²" tvg-logo="https://rochagalaxia.live/logos/REDEVIDA.jpg" group-title="CANAIS | RELIGIOSOS",REDE VIDA FHD H265²DA"
-http://51.79.17.168:14461
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-id="HBOHDB" tvg-name="HBO HD" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="CANAIS | REDE HBO",HBO HDPOP" tvg-name="HBO POP FHD H265" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="CANAIS | REDE HBO",HBO POP FHD H265"
-http://51.79.17.168:14820
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="HBOXTRM" tvg-name="HBO XTREME FHD H265" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="CANAIS | REDE HBO",HBO XTREME FHD H265EME"
-http://51.79.17.168:14900
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="TCA" tvg-name="TELECINE ACTION FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/telecineaction250.png" group-title="CANAIS | REDE TELECINE",TELECINE ACTION FHD H265"
-http://51.79.17.168:14220
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="FOXB" tvg-name="STAR CHANNEL FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL FHD H265NEL"
-http://51.79.17.168:14585
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="TOONCAST HD" tvg-logo="http://www.rochagalaxia.live/logos/TOONCAST.png" group-title="CANAIS | INFANTIS",TOONCAST HDAST"
-http://51.79.17.168:14669
-#EXTINF:-1 tvg-id="" tvg-name="RELIGIOSO"
+#EXTINF:-1  tvg-name="RELIGIOSO" tvg-id="" tvg-logo="" group-title="",RELIGIOSO
 http://51.79.17.168:14472
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="NATGEO FHD H265²" tvg-logo="https://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg" group-title="CANAIS | DOCUMENTARIOS",NATGEO FHD H265²ONA GEOGRAFIC"
-http://51.79.17.168:14435
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="ZOOMO FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/ZooMoo_logo.svg.png" group-title="CANAIS | INFANTIS",ZOOMO FHD H265MOD"
-http://51.79.17.168:14719
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="TCA" tvg-name="TELECINE ACTION FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/telecineaction250.png" group-title="CANAIS | REDE TELECINE",TELECINE ACTION FHD H265"
-http://51.79.17.168:14220
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="TCPIP" tvg-name="TELECINE PIPOCA FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/TC%20PIPOCA.png" group-title="CANAIS | REDE TELECINE",TELECINE PIPOCA FHD H265OCA"
-http://51.83.238.223:16763
-#EXTINF:-1 tvg-id="HBOHDB" tvg-name="HBO HD" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="CANAIS | REDE HBO",HBO HD
-http://51.83.238.223:16045
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="GAZHD" tvg-name="TV GAZETA ALAGOAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s103722_ll_h3_aa.png" group-title="CANAIS | GLOBO",TV GLOBO"
-http://51.83.238.223:16609
-#EXTINF:-1 tvg-id="HBOHDB" tvg-name="HBO HD" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="CANAIS | REDE HBO",HBO HD
-http://51.83.238.223:16051
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="TNTSBHD" tvg-name="TNT SERIES FHD H265" tvg-logo="http://rochagalaxia.live/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES FHD H265ES"
-http://51.83.238.223:16131
-#EXTINF:-1 tvg-id="" tvg-name="PLAY PLUS #EXTINF:-1 tvg-id="ZYB894" tvg-name="RECORD LITORAL VALE DO PARNAIBA FHD" tvg-logo="http://rochagalaxia.live/logos/logorecord.png" group-title="CANAIS | RECORD",RECORD "
-http://51.83.238.223:16171
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="ESPNMBR" tvg-name="ESPN 3 FHD H265" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 3"
-http://51.83.238.223:16575
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="CANAIS | SPORTV",SPORTV FHD H265 2"
-http://51.83.238.223:16457
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="COMBATE FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/combat250.png" group-title="CANAIS | ESPORTES",COMBATE FHD H265"
-http://51.83.238.223:16417
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="ZYB894" tvg-name="RECORD LITORAL VALE DO PARNAIBA FHD" tvg-logo="http://rochagalaxia.live/logos/logorecord.png" group-title="CANAIS | RECORD",RECORD "
-http://51.83.238.223:16141
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="ZYB894" tvg-name="RECORD LITORAL VALE DO PARNAIBA FHD" tvg-logo="http://rochagalaxia.live/logos/logorecord.png" group-title="CANAIS | RECORD",RECORD "
-http://51.83.238.223:16186
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/DISNEY%20CHANNEL.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL FHD H265HANNEL"
-http://51.83.238.223:16274
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="ESPNMBR" tvg-name="ESPN 3 FHD H265" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 3"
-http://51.83.238.223:16555
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="TCP" tvg-name="TELECINE PREMIUM FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/TCPREMIUM.png" group-title="CANAIS | REDE TELECINE",TELECINE PREMIUM FHD H265MIUM"
-http://51.83.238.223:16799
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS FHD²" tvg-logo="http://www.rochagalaxia.live/logos/bandlogo480.png" group-title="CANAIS | ABERTOS",BAND "
-http://51.83.238.223:16800
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="UNVRB" tvg-name="UNIVERSAL CHANNEL FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL CHANNEL FHD H265 TV"
-http://51.83.238.223:16883
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="AXNB" tvg-name="AXN FHD H265" tvg-logo="http://fanc.tmsimg.com/assets/s16439_ll_h3_aa.png" group-title="CANAIS | FILMES E SERIES",AXN FHD H265"
-http://51.83.238.223:16941
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="GAZHD" tvg-name="TV GAZETA ALAGOAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s103722_ll_h3_aa.png" group-title="CANAIS | GLOBO",TV GLOBO NEWS"
-http://51.83.238.223:16825
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="ANIPB" tvg-name="ANIMAL PLANET FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET FHD H265NET"
+#EXTINF:-1  tvg-name="SEM" tvg-id="" tvg-logo="" group-title="",SEM
+http://185.150.190.225:16097
+#EXTINF:-1  tvg-name="A&E" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="CANAIS | FILMES E SERIES",A&E FHD H265
+http://64.31.40.14:16002
+#EXTINF:-1  tvg-name="A&E" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="CANAIS | FILMES E SERIES",A&E FHD H265
+http://64.31.40.14:14002
+#EXTINF:-1  tvg-name="ANIMAL PLANET " tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET FHD H265NET
 http://51.83.238.223:16945
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="HBOSBHD" tvg-name="HBO SIGNATURE FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20SIGNATURE.png" group-title="CANAIS | REDE HBO",HBO SIGNATURE FHD H265"
-http://208.115.225.174:14160
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="HBOXTRM" tvg-name="HBO XTREME FHD H265" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="CANAIS | REDE HBO",HBO XTREME FHD H265EME"
-http://208.115.225.174:14165
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="UNVRB" tvg-name="UNIVERSAL CHANNEL FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL CHANNEL FHD H265 SEM SOM"
-http://208.115.225.174:14128
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="ZYB200" tvg-name="SBT PARA" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="CANAIS | SBT",SBT "
-http://208.115.225.174:14170
-#EXTINF:-1 tvg-id="" tvg-name=#EXTINF:-1 tvg-id="ZYB200" tvg-name="SBT PARA" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="CANAIS | SBT",SBT "
-http://208.115.225.174:14173
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF#EXTINF:-1 tvg-id="WBB" tvg-name="WARNER CHANNEL FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL FHD H265-1 tvg-id="ZYB200" tvg-name="SBT PARA" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="CANAIS | SBT",SBT "
-http://208.115.225.174:14132
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="ZYB200" tvg-name="SBT PARA" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="CANAIS | SBT",SBT "
-http://208.115.225.174:14176
-#EXTINF:-1 tvg-id="HBOHDB" tvg-name="HBO HD" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="CANAIS | REDE HBO",HBO HD
-http://208.115.225.174:14136
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="HBO2BHD" tvg-name="HBO 2 FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/HBO2.png" group-title="CANAIS | REDE HBO",HBO 2 FHD H265"
-http://208.115.225.174:14140
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="GAZHD" tvg-name="TV GAZETA ALAGOAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s103722_ll_h3_aa.png" group-title="CANAIS | GLOBO",TV GLOBO"
-http://208.115.225.174:14259
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="GAZHD" tvg-name="TV GAZETA ALAGOAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s103722_ll_h3_aa.png" group-title="CANAIS | GLOBO",TV GLOBO"
-http://208.115.225.174:14020
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS FHD²" tvg-logo="http://www.rochagalaxia.live/logos/bandlogo480.png" group-title="CANAIS | ABERTOS",BAND "
-http://208.115.225.174:14420
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="HBOFBHD" tvg-name="HBO FAMILY FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20FAMILY.png" group-title="CANAIS | REDE HBO",HBO FAMILY FHD H265ILY"
-http://208.115.225.174:14144
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="PFCLHD" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265"
-http://208.115.225.174:14460
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="GAZHD" tvg-name="TV GAZETA ALAGOAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s103722_ll_h3_aa.png" group-title="CANAIS | GLOBO",TV GLOBO"
-http://208.115.225.174:14263
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="HBOMSD" tvg-name="HBO MUNDI FHD H265" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="CANAIS | REDE HBO",HBO MUNDI FHD H265DI SEM SOM"
-http://208.115.225.174:14148
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="PFCLHD" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265"
-http://208.115.225.174:14464
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS FHD²" tvg-logo="http://www.rochagalaxia.live/logos/bandlogo480.png" group-title="CANAIS | ABERTOS",BAND "
-http://208.115.225.174:14428
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="HBOPB" tvg-name="HBO + FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="CANAIS | REDE HBO",HBO + FHD H265² SEM SOM"
-http://208.115.225.174:14152
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="PFCLHD" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265"
-http://208.115.225.174:14468
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="ANIPB" tvg-name="ANIMAL PLANET FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET FHD H265NET"
+#EXTINF:-1  tvg-name="ANIMAL PLANET " tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET FHD H265NET
 http://208.115.225.174:14192
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="GAZHD" tvg-name="TV GAZETA ALAGOAS HD" tvg-logo="http://fanc.tmsimg.com/assets/s103722_ll_h3_aa.png" group-title="CANAIS | GLOBO",TV GLOBO SEM SOM"
-http://208.115.225.174:14271
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO POP FHD H265" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="CANAIS | REDE HBO",HBO POP FHD H265 SEM SOM"
-http://208.115.225.174:14156
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="ESPNMBR" tvg-name="ESPN 2 FHD H265" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 3"
-http://208.115.225.174:14510
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="PFCLHD" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265"
-http://208.115.225.174:14472
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="PFCLHD" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265"
-http://208.115.225.174:14476
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="ZYB200" tvg-name="SBT PARA" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="CANAIS | SBT",SBT "
-http://208.115.225.174:16170
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="COMBATE FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/combat250.png" group-title="CANAIS | ESPORTES",COMBATE FHD H265"
+#EXTINF:-1  tvg-name="AXN" tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s16439_ll_h3_aa.png" group-title="CANAIS | FILMES E SERIES",AXN FHD H265
+http://64.31.40.14:14027
+#EXTINF:-1  tvg-name="AXN" tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s16439_ll_h3_aa.png" group-title="CANAIS | FILMES E SERIES",AXN FHD H265
+http://51.83.238.223:16941
+#EXTINF:-1  tvg-name="BAND" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/bandlogo480.png" group-title="CANAIS | ABERTOS",BAND
+http://51.79.17.168:14726
+#EXTINF:-1  tvg-name="BAND SPORTS" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/bandlogo480.png" group-title="CANAIS | ABERTOS",BAND  SPORTS FHD H265
+http://185.150.190.225:16484
+#EXTINF:-1  tvg-name="BAND" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/bandlogo480.png" group-title="CANAIS | ABERTOS",BAND
+http://51.83.238.223:16800
+#EXTINF:-1  tvg-name="BAND" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/bandlogo480.png" group-title="CANAIS | ABERTOS",BAND
+http://208.115.225.174:14420
+#EXTINF:-1  tvg-name="BAND" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/bandlogo480.png" group-title="CANAIS | ABERTOS",BAND
+http://208.115.225.174:14428
+#EXTINF:-1  tvg-name="SONY" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/canaldasony250.png" group-title="CANAIS | FILMES E SERIES",CANAL SONY FHD H265 CHANNEL
+http://64.31.40.14:14063
+#EXTINF:-1  tvg-name="CINEMAX" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" group-title="CANAIS | FILMES E SERIES",CINEMAX FHD H265
+http://64.31.40.14:14031
+#EXTINF:-1  tvg-name="COMBATE" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/combat250.png" group-title="CANAIS | ESPORTES",COMBATE FHD H265
+http://185.150.190.225:16493
+#EXTINF:-1  tvg-name="COMBATE" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/combat250.png" group-title="CANAIS | ESPORTES",COMBATE FHD H265
+http://51.83.238.223:16417
+#EXTINF:-1  tvg-name="COMBATE" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/combat250.png" group-title="CANAIS | ESPORTES",COMBATE FHD H265
 http://208.115.225.174:16493
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="PFCLHD" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265"
-http://208.115.225.174:16460
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="PFCLHD" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265"
-http://208.115.225.174:16464
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="PFCLHD" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265"
-http://208.115.225.174:16468
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="PFCLHD" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265"
-http://208.115.225.174:16476
-#EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="ESPNMBR" tvg-name="ESPN FHD H265" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN "
+#EXTINF:-1  tvg-name="DISNEY CHANNEL" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/DISNEY%20CHANNEL.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL FHD H265HANNEL
+http://51.83.238.223:16274
+#EXTINF:-1  tvg-name="ESPN" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN
 http://208.115.225.174:16556
+#EXTINF:-1  tvg-name="ESPN 3" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 3
+http://51.83.238.223:16575
+#EXTINF:-1  tvg-name="ESPN 3" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 3
+http://51.83.238.223:16555
+#EXTINF:-1  tvg-name="ESPN 3" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="CANAIS | ESPN",ESPN 3
+http://208.115.225.174:14510
+#EXTINF:-1  tvg-name="FASHION TV " tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/FashionTV2019novo.png" group-title="CANAIS | VARIEDADES",FASHION TV FHD H265 TV
+http://185.150.190.225:14961 
+#EXTINF:-1  tvg-name="FX" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" group-title="CANAIS | FILMES E SERIES",FX FHD H265
+http://64.31.40.14:14043
+#EXTINF:-1  tvg-name="GLOOB" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/GLOOB.jpg" group-title="CANAIS | INFANTIS",GLOOB FHD H265
+http://185.150.190.225:14674
+#EXTINF:-1  tvg-name="HBO +" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="CANAIS | REDE HBO",HBO + FHD H265²
+http://208.115.225.174:14152
+#EXTINF:-1  tvg-name="HBO 2" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/HBO2.png" group-title="CANAIS | REDE HBO",HBO 2 FHD H265"
+http://208.115.225.174:14140
+#EXTINF:-1  tvg-name="HBO FAMILY " tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20FAMILY.png" group-title="CANAIS | REDE HBO",HBO FAMILY FHD H265ILY"
+http://208.115.225.174:14144
+#EXTINF:-1  tvg-name="HBO HD" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="CANAIS | REDE HBO",HBO HD
+http://51.83.238.223:16045
+#EXTINF:-1  tvg-name="HBO HD" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="CANAIS | REDE HBO",HBO HD
+http://51.83.238.223:16051
+#EXTINF:-1  tvg-name="HBO HD" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="CANAIS | REDE HBO",HBO HD
+http://208.115.225.174:14136
+#EXTINF:-1  tvg-name="HBO MUND" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="CANAIS | REDE HBO",HBO MUNDI FHD H265DI SEM SOM"
+http://208.115.225.174:14148
+#EXTINF:-1  tvg-name="HBO POP " tvg-id="" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="CANAIS | REDE HBO",HBO POP FHD H265 SEM SOM"
+http://208.115.225.174:14156
+#EXTINF:-1  tvg-name="HBO POP" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="CANAIS | REDE HBO",HBO POP FHD H265
+http://51.79.17.168:14820
+#EXTINF:-1  tvg-name="HBO SIGNATURE" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20SIGNATURE.png" group-title="CANAIS | REDE HBO",HBO SIGNATURE FHD H265
+http://208.115.225.174:14160
+#EXTINF:-1  tvg-name="HBO XTREME" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="CANAIS | REDE HBO",HBO XTREME FHD H265EME
+http://51.79.17.168:14900
+#EXTINF:-1  tvg-name="HBO XTREME " tvg-id="" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="CANAIS | REDE HBO",HBO XTREME FHD H265EME
+http://208.115.225.174:14165
+#EXTINF:-1  tvg-name="MEGAPIX" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX FHD H265
+http://64.31.40.14:14048
+#EXTINF:-1  tvg-name="MEGAPIX" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" group-title="CANAIS | FILMES E SERIES",MEGAPIX FHD H265
+http://51.79.17.168:14410
+#EXTINF:-1  tvg-name="MULTISHOW" tvg-id="" tvg-logo="https://rochagalaxia.live/logos/MULTISHOW.png" group-title="CANAIS | MUSICA",MULTISHOW FHD H265
+http://64.31.40.14:14712
+#EXTINF:-1  tvg-name="NATGEO FHD " tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg" group-title="CANAIS | DOCUMENTARIOS",NATGEO FHD H265²ONA GEOGRAFIC
+http://51.79.17.168:14435
+#EXTINF:-1  tvg-name="NICK FHD" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/Nickelodeon-logo.png" group-title="CANAIS | INFANTIS",NICK FHD H265DEON
+http://51.79.17.168:14457
+#EXTINF:-1  tvg-name="NICK FHD" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/nick-jr-logo.png" group-title="CANAIS | INFANTIS",NICK JR FHD H265
+http://51.79.17.168:14451
+#EXTINF:-1  tvg-name="PARAMOUNT" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" group-title="CANAIS | FILMES E SERIES",PARAMOUNT FHD H265 FHD H265
+http://64.31.40.14:14058
+#EXTINF:-1  tvg-name="PREMIERE" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265
+http://185.150.190.225:16468 
+#EXTINF:-1  tvg-name="PREMIERE" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265
+http://185.150.190.225:16476
+#EXTINF:-1  tvg-name="PREMIERE" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265
+http://64.31.40.14:16291
+#EXTINF:-1  tvg-name="PREMIERE" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265
+http://208.115.225.174:14460
+#EXTINF:-1  tvg-name="PREMIERE" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265
+http://208.115.225.174:14464
+#EXTINF:-1  tvg-name="PREMIERE" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265
+http://208.115.225.174:14468
+#EXTINF:-1  tvg-name="PREMIERE" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265
+http://208.115.225.174:14472
+#EXTINF:-1  tvg-name="PREMIERE" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265
+http://208.115.225.174:14476
+#EXTINF:-1  tvg-name="PREMIERE" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265
+http://208.115.225.174:16460
+#EXTINF:-1  tvg-name="PREMIERE" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265
+http://208.115.225.174:16464
+#EXTINF:-1  tvg-name="PREMIERE" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265
+http://208.115.225.174:16468
+#EXTINF:-1  tvg-name="PREMIERE" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265
+http://208.115.225.174:16476
+#EXTINF:-1  tvg-name="RECORD" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/logorecord.png" group-title="CANAIS | RECORD",RECORD
+http://51.83.238.223:16171
+#EXTINF:-1  tvg-name="RECORD" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/logorecord.png" group-title="CANAIS | RECORD",RECORD
+http://51.83.238.223:16141
+#EXTINF:-1  tvg-name="RECORD" tvg-id="" tvg-logo="http://rochagalaxia.live/logos/logorecord.png" group-title="CANAIS | RECORD",RECORD
+http://51.83.238.223:16186
+#EXTINF:-1  tvg-name="REDE TV" tvg-id="" tvg-logo="" group-title="CANAIS | ABERTOS",REDE TV
+http://64.31.40.14:14865
+#EXTINF:-1  tvg-name="REDE VIDA" tvg-id="" tvg-logo="https://rochagalaxia.live/logos/REDEVIDA.jpg" group-title="CANAIS | RELIGIOSOS",REDE VIDA
+http://185.150.190.225:14071
+#EXTINF:-1  tvg-name="REDE VIDA" tvg-id="" tvg-logo="https://rochagalaxia.live/logos/REDEVIDA.jpg" group-title="CANAIS | RELIGIOSOS",REDE VIDA FHD 
+http://51.79.17.168:14461
+#EXTINF:-1  tvg-name="SBT" tvg-id="" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="CANAIS | SBT",SBT
+http://208.115.225.174:14170
+#EXTINF:-1  tvg-name="SBT" tvg-id="" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="CANAIS | SBT",SBT
+http://208.115.225.174:14173
+#EXTINF:-1  tvg-name="WARNER" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="CANAIS | FILMES E SERIES",WARNER
+http://208.115.225.174:14132
+#EXTINF:-1  tvg-name="SBT" tvg-id="" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="CANAIS | SBT",SBT
+http://208.115.225.174:14176
+#EXTINF:-1  tvg-name="SBT" tvg-id="" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="CANAIS | SBT",SBT
+http://208.115.225.174:16170
+#EXTINF:-1  tvg-name="SPACE" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" group-title="CANAIS | FILMES E SERIES",SPACE FHD H265
+http://51.79.17.168:14562
+#EXTINF:-1  tvg-name="SPORTV" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="CANAIS | SPORTV",SPORTV FHD H265 2
+http://51.83.238.223:16457
+#EXTINF:-1  tvg-name="SPORTV" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="CANAIS | SPORTV",SPORTV FHD H265
+http://185.150.190.225:16020
+#EXTINF:-1  tvg-name="STAR CHANNEL" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" group-title="CANAIS | FILMES E SERIES",STAR CHANNEL FHD H265NEL
+http://51.79.17.168:14585
+#EXTINF:-1  tvg-name="TELECINE ACTION" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/telecineaction250.png" group-title="CANAIS | REDE TELECINE",TELECINE ACTION FHD H265
+http://64.31.40.14:14056
+#EXTINF:-1  tvg-name="TELECINE ACTION" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/telecineaction250.png" group-title="CANAIS | REDE TELECINE",TELECINE ACTION FHD H265
+http://51.79.17.168:14220
+#EXTINF:-1  tvg-name="TELECINE ACTION " tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/telecineaction250.png" group-title="CANAIS | REDE TELECINE",TELECINE ACTION FHD H265
+http://51.79.17.168:14220
+#EXTINF:-1  tvg-name="TELECINE PIPOCA" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/TC%20PIPOCA.png" group-title="CANAIS | REDE TELECINE",TELECINE PIPOCA FHD H265OCA
+http://51.83.238.223:16763
+#EXTINF:-1  tvg-name="TELECINE PREMIUM " tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/TCPREMIUM.png" group-title="CANAIS | REDE TELECINE",TELECINE PREMIUM FHD H265MIUM
+http://51.83.238.223:16799
+#EXTINF:-1  tvg-name="TELECINE TOUCH" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/TCTOUCH.png" group-title="CANAIS | REDE TELECINE",TELECINE TOUCH FHD H265CH
+http://51.79.17.168:14420
+#EXTINF:-1  tvg-name="TNT" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" group-title="CANAIS | FILMES E SERIES",TNT FHD H265
+http://51.79.17.168:14658
+#EXTINF:-1  tvg-name="TNT Novelas " tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/TNT_novelas.jpg" group-title="CANAIS | FILMES E SERIES",TNT Novelas FHD H265ELAS
+http://51.79.17.168:14613
+#EXTINF:-1  tvg-name="TNT SERIES " tvg-id="" tvg-logo="http://rochagalaxia.live/logos/tntseries.png" group-title="CANAIS | FILMES E SERIES",TNT SERIES FHD H265ES"
+http://51.83.238.223:16131
+#EXTINF:-1  tvg-name="TOONCAST" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/TOONCAST.png" group-title="CANAIS | INFANTIS",TOONCAST HDAST
+http://51.79.17.168:14669
+#EXTINF:-1  tvg-name="TV APARECIDA" tvg-id="" tvg-logo="https://rochagalaxia.live/logos/APARECIDA.jpg" group-title="CANAIS | RELIGIOSOS",TV APARECIDA FHD H265
+http://51.79.17.168:14682
+#EXTINF:-1  tvg-name=" GLOBO NEWS" tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s103722_ll_h3_aa.png" group-title="CANAIS | GLOBO",TV GLOBO NEWS
+http://51.83.238.223:16825
+#EXTINF:-1  tvg-name="GLOBO" tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s103722_ll_h3_aa.png" group-title="CANAIS | GLOBO",TV GLOBO SEM SOM
+http://208.115.225.174:14271
+#EXTINF:-1  tvg-name="GLOBO" tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s103722_ll_h3_aa.png" group-title="CANAIS | GLOBO",TV GLOBO
+http://185.150.190.225:16263
+#EXTINF:-1  tvg-name="GLOBO" tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s103722_ll_h3_aa.png" group-title="CANAIS | GLOBO",TV GLOBO
+http://64.31.40.14:16076
+#EXTINF:-1  tvg-name="GLOBO" tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s103722_ll_h3_aa.png" group-title="CANAIS | GLOBO",TV GLOBO
+http://51.83.238.223:16609
+#EXTINF:-1  tvg-name="GLOBO" tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s103722_ll_h3_aa.png" group-title="CANAIS | GLOBO",TV GLOBO
+http://208.115.225.174:14259
+#EXTINF:-1  tvg-name="GLOBO" tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s103722_ll_h3_aa.png" group-title="CANAIS | GLOBO",TV GLOBO
+http://208.115.225.174:14020
+#EXTINF:-1  tvg-name="GLOBO" tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s103722_ll_h3_aa.png" group-title="CANAIS | GLOBO",TV GLOBO
+http://208.115.225.174:14263
+#EXTINF:-1  tvg-name="TV RATIMBUM FHD H265²" tvg-id="" tvg-logo="https://www.rochagalaxia.live/logos/TVRATIMBUM.png" group-title="CANAIS | INFANTIS",TV RATIMBUM FHD H265
+http://51.79.17.168:14687
+#EXTINF:-1  tvg-name="UNIVERSAL CHANNEL" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL CHANNEL FHD H265 SEM SOM
+http://208.115.225.174:14128
+#EXTINF:-1  tvg-name="UNIVERSAL CHANNEL" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="CANAIS | FILMES E SERIES",UNIVERSAL CHANNEL FHD H265 TV
+http://51.83.238.223:16883
+#EXTINF:-1  tvg-name="VIVA" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/VIVA.jpg" group-title="CANAIS | VARIEDADES",VIVA FHD H265
+http://64.31.40.14:14884
+#EXTINF:-1  tvg-name="ZOOMO" tvg-id="" tvg-logo="http://www.rochagalaxia.live/logos/ZooMoo_logo.svg.png" group-title="CANAIS | INFANTIS",ZOOMO FHD H265MOD
+http://51.79.17.168:14719
