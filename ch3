@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-id="" tvg-name="Wonka (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IiODXjfLhVk5OhBlAqueCB4GQv.jpg" group-title="Filmes | Lançamentos 2023",Wonka (2023)
-http://pdsrv.io:80/movie/Italo023S/FWF234WS/469685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aquaman 2: O Reino Perdido (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Mys5JCHhUH6DE9YxLFFZaCsOHu.jpg" group-title=" Filmes | Cinema",Aquaman 2: O Reino Perdido (2023)
+http://pdsrv.io:80/movie/Italo023S/FWF234WS/464389.mp4
 #EXTINF:-1 tvg-id="" tvg-name="#VAMOS HD" tvg-logo="https://uploaddeimagens.com.br/images/004/625/168/full/intereps.png" group-title="ESPORTES INTERNACIONAIS",#VAMOS HD
 http://c4n.fun:80/3976352853/6737073486/187247.ts
 #EXTINF:-1 tvg-id="" tvg-name="24 NEWS" tvg-logo="https://uploaddeimagens.com.br/images/004/626/427/full/24H_News_Ok.png" group-title="NOTÍCIAS",24 NEWS
