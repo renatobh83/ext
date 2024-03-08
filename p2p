@@ -1200,6 +1200,14 @@ http://blacktv.syscdn.xyz:80/965874585452/232545854585/76686
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/885
 #EXTINF:-1 tvg-id="Shoptime.br" tvg-name="SHOP TIME HD" tvg-logo="https://imgur.com/gZrh4Px.png" group-title="CANAIS | VARIEDADES",SHOP TIME HD
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/150
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD*" tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png" group-title="CANAIS  | FILMES E SERIES",SPACE FHD
+http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/846.m3u8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD H265*" tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png" group-title="CANAIS  | FILMES E SERIES",SPACE FHD H265
+http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/282.m3u8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD*" tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png" group-title="CANAIS  | FILMES E SERIES",SPACE HD
+http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/70.m3u8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD*" tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png" group-title="CANAIS  | FILMES E SERIES",SPACE SD
+http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/543.m3u8
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="https://i.imgur.com/rLuaRDb.png" group-title="CANAIS  | FILMES E SERIES",SPACE FHD
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/846
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD H265" tvg-logo="https://i.imgur.com/rLuaRDb.png" group-title="CANAIS  | FILMES E SERIES",SPACE FHD H265
