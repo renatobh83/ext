@@ -155,99 +155,93 @@ http://uniplay.link:80/814365850/ZkSH7Tb/271577
 http://uniplay.link:80/814365850/ZkSH7Tb/271600
 #EXTINF:-1 tvg-name="X-Men 01"tvg-id="SerieseProgramas.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANAIS-24-HORAS.png"group-title="Canais | Dc Comics 24 Horas",X-Men 01
 http://uniplay.link:80/814365850/ZkSH7Tb/271599
-#EXTINF:-1 tvg-name="Woohoo UHD"tvg-id="Woohoo.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/WOOHOO.png"group-title="Canais |  Variedades ",Woohoo UHD
+#EXTINF:-1 tvg-name="Woohoo UHD"tvg-id="Woohoo.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/WOOHOO.png"group-title="Canais |  Variedades ",Woohoo
 http://uniplay.link:80/814365850/ZkSH7Tb/21336
-#EXTINF:-1 tvg-name="WOOHOO TV SD"tvg-id="Woohoo.br"tvg-logo="https://images2.imgbox.com/c4/bc/dCzr7VQe_o.png"group-title="CANAIS | VARIEDADES",WOOHOO TV SD
+#EXTINF:-1 tvg-name="WOOHOO TV SD"tvg-id="Woohoo.br"tvg-logo="https://images2.imgbox.com/c4/bc/dCzr7VQe_o.png"group-title="CANAIS | VARIEDADES",Woohoo
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/582.m3u8
-#EXTINF:-1 tvg-name="WOOHOO TV SD"tvg-id="Woohoo.br"tvg-logo="https://imgur.com/lRhTz6m.png"group-title="CANAIS | VARIEDADES",WOOHOO TV SD
+#EXTINF:-1 tvg-name="WOOHOO TV SD"tvg-id="Woohoo.br"tvg-logo="https://imgur.com/lRhTz6m.png"group-title="CANAIS | VARIEDADES",Woohoo
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/582
-#EXTINF:-1 tvg-name="WOOHOO TV HD"tvg-id="Woohoo.br"tvg-logo="https://images2.imgbox.com/c4/bc/dCzr7VQe_o.png"group-title="CANAIS | VARIEDADES",WOOHOO TV HD
+#EXTINF:-1 tvg-name="WOOHOO TV HD"tvg-id="Woohoo.br"tvg-logo="https://images2.imgbox.com/c4/bc/dCzr7VQe_o.png"group-title="CANAIS | VARIEDADES",Woohoo
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/129.m3u8
-#EXTINF:-1 tvg-name="WOOHOO TV HD"tvg-id="Woohoo.br"tvg-logo="https://imgur.com/lRhTz6m.png"group-title="CANAIS | VARIEDADES",WOOHOO TV HD
+#EXTINF:-1 tvg-name="WOOHOO TV HD"tvg-id="Woohoo.br"tvg-logo="https://imgur.com/lRhTz6m.png"group-title="CANAIS | VARIEDADES",Woohoo
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/129
-#EXTINF:-1 tvg-name="WOOHOO TV H265"tvg-id="Woohoo.br"tvg-logo="https://images2.imgbox.com/c4/bc/dCzr7VQe_o.png"group-title="CANAIS | VARIEDADES",WOOHOO TV H265
+#EXTINF:-1 tvg-name="WOOHOO TV H265"tvg-id="Woohoo.br"tvg-logo="https://images2.imgbox.com/c4/bc/dCzr7VQe_o.png"group-title="CANAIS | VARIEDADES",Woohoo
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/304.m3u8
-#EXTINF:-1 tvg-name="WOOHOO TV H265"tvg-id="Woohoo.br"tvg-logo="https://imgur.com/lRhTz6m.png"group-title="CANAIS | VARIEDADES",WOOHOO TV H265
+#EXTINF:-1 tvg-name="WOOHOO TV H265"tvg-id="Woohoo.br"tvg-logo="https://imgur.com/lRhTz6m.png"group-title="CANAIS | VARIEDADES",Woohoo
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/304
-#EXTINF:-1 tvg-name="WOOHOO TV FHD"tvg-id="Woohoo.br"tvg-logo="https://images2.imgbox.com/c4/bc/dCzr7VQe_o.png"group-title="CANAIS | VARIEDADES",WOOHOO TV FHD
+#EXTINF:-1 tvg-name="WOOHOO TV FHD"tvg-id="Woohoo.br"tvg-logo="https://images2.imgbox.com/c4/bc/dCzr7VQe_o.png"group-title="CANAIS | VARIEDADES",Woohoo
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/875.m3u8
-#EXTINF:-1 tvg-name="WOOHOO TV FHD"tvg-id="Woohoo.br"tvg-logo="https://imgur.com/lRhTz6m.png"group-title="CANAIS | VARIEDADES",WOOHOO TV FHD
+#EXTINF:-1 tvg-name="WOOHOO TV FHD"tvg-id="Woohoo.br"tvg-logo="https://imgur.com/lRhTz6m.png"group-title="CANAIS | VARIEDADES",Woohoo
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/875
-#EXTINF:-1 tvg-name="Woohoo SD"tvg-id="Woohoo.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/WOOHOO.png"group-title="Canais |  Variedades ",Woohoo SD
+#EXTINF:-1 tvg-name="Woohoo SD"tvg-id="Woohoo.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/WOOHOO.png"group-title="Canais |  Variedades ",Woohoo
 http://uniplay.link:80/814365850/ZkSH7Tb/2539
-#EXTINF:-1 tvg-name="Woohoo HD"tvg-id="Woohoo.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/WOOHOO.png"group-title="Canais |  Variedades ",Woohoo HD
+#EXTINF:-1 tvg-name="Woohoo HD"tvg-id="Woohoo.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/WOOHOO.png"group-title="Canais |  Variedades ",Woohoo
 http://uniplay.link:80/814365850/ZkSH7Tb/2540
-#EXTINF:-1 tvg-name="Woohoo FHD"tvg-id="Woohoo.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/WOOHOO.png"group-title="Canais |  Variedades ",Woohoo FHD
+#EXTINF:-1 tvg-name="Woohoo FHD"tvg-id="Woohoo.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/WOOHOO.png"group-title="Canais |  Variedades ",Woohoo
 http://uniplay.link:80/814365850/ZkSH7Tb/2541
-#EXTINF:-1 tvg-name="WEB TV EXTREME"tvg-id=""tvg-logo="https://images2.imgbox.com/22/2f/6SP845zt_o.png"group-title="Canais | Filmes & Series",WEB TV EXTREME
-http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/60182.m3u8
-#EXTINF:-1 tvg-name="WEB TV EXTREME"tvg-id=""tvg-logo="https://i.imgur.com/dbkpGEm.png"group-title="Canais | Filmes & Series",WEB TV EXTREME
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/60182
-#EXTINF:-1 tvg-name="Warner Channel UHD"tvg-id="Warnerchannel.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png"group-title="Canais | Filmes & Series",Warner Channel UHD
+#EXTINF:-1 tvg-name="Warner Channel UHD"tvg-id="Warnerchannel.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png"group-title="Canais | Filmes & Series",Warner Channel
 http://uniplay.link:80/814365850/ZkSH7Tb/21291
-#EXTINF:-1 tvg-name="Warner Channel SD"tvg-id="Warnerchannel.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png"group-title="Canais | Filmes & Series",Warner Channel SD
+#EXTINF:-1 tvg-name="Warner Channel SD"tvg-id="Warnerchannel.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png"group-title="Canais | Filmes & Series",Warner Channel
 http://uniplay.link:80/814365850/ZkSH7Tb/745
-#EXTINF:-1 tvg-name="WARNER CHANNEL SD"tvg-id="Warnerchannel.br"tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png"group-title="Canais | Filmes & Series",WARNER CHANNEL SD
+#EXTINF:-1 tvg-name="WARNER CHANNEL SD"tvg-id="Warnerchannel.br"tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png"group-title="Canais | Filmes & Series",Warner Channel
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/581.m3u8
-#EXTINF:-1 tvg-name="WARNER CHANNEL SD"tvg-id="Warnerchannel.br"tvg-logo="https://i.imgur.com/M6YFOLU.png"group-title="Canais | Filmes & Series",WARNER CHANNEL SD
+#EXTINF:-1 tvg-name="WARNER CHANNEL SD"tvg-id="Warnerchannel.br"tvg-logo="https://i.imgur.com/M6YFOLU.png"group-title="Canais | Filmes & Series",Warner Channel
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/581
-#EXTINF:-1 tvg-name="Warner Channel HD²"tvg-id="Warnerchannel.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png"group-title="Canais | Filmes & Series",Warner Channel HD²
+#EXTINF:-1 tvg-name="Warner Channel HD²"tvg-id="Warnerchannel.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png"group-title="Canais | Filmes & Series",Warner Channel
 http://uniplay.link:80/814365850/ZkSH7Tb/748
-#EXTINF:-1 tvg-name="Warner Channel HD [LEG]"tvg-id=""tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png"group-title="Canais | Legendados",Warner Channel HD [LEG]
+#EXTINF:-1 tvg-name="Warner Channel HD [LEG]"tvg-id=""tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png"group-title="Canais | Legendados",Warner Channel
 http://uniplay.link:80/814365850/ZkSH7Tb/118925
-#EXTINF:-1 tvg-name="Warner Channel HD"tvg-id="Warnerchannel.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png"group-title="Canais | Filmes & Series",Warner Channel HD
+#EXTINF:-1 tvg-name="Warner Channel HD"tvg-id="Warnerchannel.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png"group-title="Canais | Filmes & Series",Warner Channel
 http://uniplay.link:80/814365850/ZkSH7Tb/746
-#EXTINF:-1 tvg-name="WARNER CHANNEL HD"tvg-id="Warnerchannel.br"tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png"group-title="Canais | Filmes & Series",WARNER CHANNEL HD
+#EXTINF:-1 tvg-name="WARNER CHANNEL HD"tvg-id="Warnerchannel.br"tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png"group-title="Canais | Filmes & Series",Warner Channel
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/93.m3u8
-#EXTINF:-1 tvg-name="WARNER CHANNEL HD"tvg-id="Warnerchannel.br"tvg-logo="https://i.imgur.com/M6YFOLU.png"group-title="Canais | Filmes & Series",WARNER CHANNEL HD
+#EXTINF:-1 tvg-name="WARNER CHANNEL HD"tvg-id="Warnerchannel.br"tvg-logo="https://i.imgur.com/M6YFOLU.png"group-title="Canais | Filmes & Series",Warner Channel
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/93
-#EXTINF:-1 tvg-name="WARNER CHANNEL FHD H265"tvg-id="Warnerchannel.br"tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png"group-title="Canais | Filmes & Series",WARNER CHANNEL FHD H265
+#EXTINF:-1 tvg-name="WARNER CHANNEL FHD H265"tvg-id="Warnerchannel.br"tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png"group-title="Canais | Filmes & Series",Warner Channel
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/303.m3u8
-#EXTINF:-1 tvg-name="WARNER CHANNEL FHD H265"tvg-id="Warnerchannel.br"tvg-logo="https://i.imgur.com/M6YFOLU.png"group-title="Canais | Filmes & Series",WARNER CHANNEL FHD H265
+#EXTINF:-1 tvg-name="WARNER CHANNEL FHD H265"tvg-id="Warnerchannel.br"tvg-logo="https://i.imgur.com/M6YFOLU.png"group-title="Canais | Filmes & Series",Warner Channel
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/303
-#EXTINF:-1 tvg-name="Warner Channel FHD [LEG ]"tvg-id="Warnerchannel.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png"group-title="Canais | Legendados",Warner Channel FHD [LEG ]
+#EXTINF:-1 tvg-name="Warner Channel FHD [LEG ]"tvg-id="Warnerchannel.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png"group-title="Canais | Legendados",Warner Channel
 http://uniplay.link:80/814365850/ZkSH7Tb/118926
-#EXTINF:-1 tvg-name="Warner Channel FHD"tvg-id="Warnerchannel.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png"group-title="Canais | Filmes & Series",Warner Channel FHD
+#EXTINF:-1 tvg-name="Warner Channel FHD"tvg-id="Warnerchannel.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/WARNERCHANNEL.png"group-title="Canais | Filmes & Series",Warner Channel
 http://uniplay.link:80/814365850/ZkSH7Tb/749
-#EXTINF:-1 tvg-name="WARNER CHANNEL FHD"tvg-id="Warnerchannel.br"tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png"group-title="Canais | Filmes & Series",WARNER CHANNEL FHD
+#EXTINF:-1 tvg-name="WARNER CHANNEL FHD"tvg-id="Warnerchannel.br"tvg-logo="https://images2.imgbox.com/5b/5e/iAN4sh8S_o.png"group-title="Canais | Filmes & Series",Warner Channel
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/850.m3u8
-#EXTINF:-1 tvg-name="WARNER CHANNEL FHD"tvg-id="Warnerchannel.br"tvg-logo="https://i.imgur.com/M6YFOLU.png"group-title="Canais | Filmes & Series",WARNER CHANNEL FHD
+#EXTINF:-1 tvg-name="WARNER CHANNEL FHD"tvg-id="Warnerchannel.br"tvg-logo="https://i.imgur.com/M6YFOLU.png"group-title="Canais | Filmes & Series",Warner Channel
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/850
-#EXTINF:-1 tvg-name="Viva UHD"tvg-id="Viva.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/VIVA.png"group-title="Canais |  Variedades ",Viva UHD
+#EXTINF:-1 tvg-name="Viva UHD"tvg-id="Viva.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/VIVA.png"group-title="Canais |  Variedades ",Viva
 http://uniplay.link:80/814365850/ZkSH7Tb/21290
-#EXTINF:-1 tvg-name="VIVA SD"tvg-id="Viva.br"tvg-logo="https://images2.imgbox.com/23/97/zzB9ZARC_o.png"group-title="CANAIS | VARIEDADES",VIVA SD
+#EXTINF:-1 tvg-name="VIVA SD"tvg-id="Viva.br"tvg-logo="https://images2.imgbox.com/23/97/zzB9ZARC_o.png"group-title="CANAIS | VARIEDADES",Viva
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/580.m3u8
-#EXTINF:-1 tvg-name="VIVA SD"tvg-id="Viva.br"tvg-logo="http://ccdnblck.xyz:80/images/82aa50639d663c39341a5d56bc254c6c.png"group-title="CANAIS | VARIEDADES",VIVA SD
+#EXTINF:-1 tvg-name="VIVA SD"tvg-id="Viva.br"tvg-logo="http://ccdnblck.xyz:80/images/82aa50639d663c39341a5d56bc254c6c.png"group-title="CANAIS | VARIEDADES",Viva
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/580
-#EXTINF:-1 tvg-name="Viva SD"tvg-id="Viva.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/VIVA.png"group-title="Canais |  Variedades ",Viva SD
+#EXTINF:-1 tvg-name="Viva SD"tvg-id="Viva.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/VIVA.png"group-title="Canais |  Variedades ",Viva
 http://uniplay.link:80/814365850/ZkSH7Tb/2535
-#EXTINF:-1 tvg-name="VIVA HD"tvg-id="Viva.br"tvg-logo="https://images2.imgbox.com/23/97/zzB9ZARC_o.png"group-title="CANAIS | VARIEDADES",VIVA HD
+#EXTINF:-1 tvg-name="VIVA HD"tvg-id="Viva.br"tvg-logo="https://images2.imgbox.com/23/97/zzB9ZARC_o.png"group-title="CANAIS | VARIEDADES",Viva
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/92.m3u8
-#EXTINF:-1 tvg-name="VIVA HD"tvg-id="Viva.br"tvg-logo="http://ccdnblck.xyz:80/images/82aa50639d663c39341a5d56bc254c6c.png"group-title="CANAIS | VARIEDADES",VIVA HD
+#EXTINF:-1 tvg-name="VIVA HD"tvg-id="Viva.br"tvg-logo="http://ccdnblck.xyz:80/images/82aa50639d663c39341a5d56bc254c6c.png"group-title="CANAIS | VARIEDADES",Viva
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/92
-#EXTINF:-1 tvg-name="Viva HD"tvg-id="Viva.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/VIVA.png"group-title="Canais |  Variedades ",Viva HD
+#EXTINF:-1 tvg-name="Viva HD"tvg-id="Viva.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/VIVA.png"group-title="Canais |  Variedades ",Viva
 http://uniplay.link:80/814365850/ZkSH7Tb/2536
-#EXTINF:-1 tvg-name="VIVA FHD "tvg-id="Viva.br"tvg-logo="https://images2.imgbox.com/23/97/zzB9ZARC_o.png"group-title="CANAIS | VARIEDADES",VIVA FHD
+#EXTINF:-1 tvg-name="VIVA FHD "tvg-id="Viva.br"tvg-logo="https://images2.imgbox.com/23/97/zzB9ZARC_o.png"group-title="CANAIS | VARIEDADES",Viva
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/865.m3u8
-#EXTINF:-1 tvg-name="VIVA FHD "tvg-id="Viva.br"tvg-logo="https://imgur.com/xJBcvcI.png"group-title="CANAIS | VARIEDADES",VIVA FHD
+#EXTINF:-1 tvg-name="VIVA FHD "tvg-id="Viva.br"tvg-logo="https://imgur.com/xJBcvcI.png"group-title="CANAIS | VARIEDADES",Viva
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/865
-#EXTINF:-1 tvg-name="Viva FHD"tvg-id="Viva.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/VIVA.png"group-title="Canais |  Variedades ",Viva FHD
+#EXTINF:-1 tvg-name="Viva FHD"tvg-id="Viva.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/VIVA.png"group-title="Canais |  Variedades ",Viva
 http://uniplay.link:80/814365850/ZkSH7Tb/2537
-#EXTINF:-1 tvg-name="Viva 4K"tvg-id="Viva.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/VIVA.png"group-title="Canais | 4K",Viva 4K
+#EXTINF:-1 tvg-name="Viva 4K"tvg-id="Viva.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/VIVA.png"group-title="Canais | 4K",Viva
 http://uniplay.link:80/814365850/ZkSH7Tb/284616
-#EXTINF:-1 tvg-name="Visit-X TV HD"tvg-id=""tvg-logo=""group-title="Canais | Adultos +18",Visit-X TV HD
-http://uniplay.link:80/814365850/ZkSH7Tb/271522
-#EXTINF:-1 tvg-name="VH1 SD"tvg-id="13.argentina.ar"tvg-logo="https://images2.imgbox.com/d7/65/HsAZF5wb_o.png"group-title="CANAIS | VARIEDADES",VH1 SD
+#EXTINF:-1 tvg-name="VH1 SD"tvg-id="13.argentina.ar"tvg-logo="https://images2.imgbox.com/d7/65/HsAZF5wb_o.png"group-title="CANAIS | VARIEDADES",VH1
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/2958.m3u8
-#EXTINF:-1 tvg-name="VH1 SD"tvg-id="vh1.pt"tvg-logo="https://imgur.com/Ke3Z7In.png"group-title="CANAIS | VARIEDADES",VH1 SD
+#EXTINF:-1 tvg-name="VH1 SD"tvg-id="vh1.pt"tvg-logo="https://imgur.com/Ke3Z7In.png"group-title="CANAIS | VARIEDADES",VH1
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/2958
-#EXTINF:-1 tvg-name="VH1 HD"tvg-id="13.argentina.ar"tvg-logo="https://images2.imgbox.com/d7/65/HsAZF5wb_o.png"group-title="CANAIS | VARIEDADES",VH1 HD
+#EXTINF:-1 tvg-name="VH1 HD"tvg-id="13.argentina.ar"tvg-logo="https://images2.imgbox.com/d7/65/HsAZF5wb_o.png"group-title="CANAIS | VARIEDADES",VH1
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/91.m3u8
-#EXTINF:-1 tvg-name="VH1 HD"tvg-id="vh1.pt"tvg-logo="https://imgur.com/Ke3Z7In.png"group-title="CANAIS | VARIEDADES",VH1 HD
+#EXTINF:-1 tvg-name="VH1 HD"tvg-id="vh1.pt"tvg-logo="https://imgur.com/Ke3Z7In.png"group-title="CANAIS | VARIEDADES",VH1
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/91
-#EXTINF:-1 tvg-name="VH1 FHD H265"tvg-id="13.argentina.ar"tvg-logo="https://images2.imgbox.com/d7/65/HsAZF5wb_o.png"group-title="CANAIS | VARIEDADES",VH1 FHD H265
+#EXTINF:-1 tvg-name="VH1 FHD H265"tvg-id="13.argentina.ar"tvg-logo="https://images2.imgbox.com/d7/65/HsAZF5wb_o.png"group-title="CANAIS | VARIEDADES",VH1
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/302.m3u8
-#EXTINF:-1 tvg-name="VH1 FHD H265"tvg-id="vh1.pt"tvg-logo="https://imgur.com/Ke3Z7In.png"group-title="CANAIS | VARIEDADES",VH1 FHD H265
+#EXTINF:-1 tvg-name="VH1 FHD H265"tvg-id="vh1.pt"tvg-logo="https://imgur.com/Ke3Z7In.png"group-title="CANAIS | VARIEDADES",VH1
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/302
 #EXTINF:-1 tvg-name="VERIFIED AMATEURS: YINYLEON"tvg-id=""tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png"group-title="Canais | Adultos +18",VERIFIED AMATEURS: YINYLEON
 http://uniplay.link:80/814365850/ZkSH7Tb/260590
@@ -299,88 +293,36 @@ http://uniplay.link:80/814365850/ZkSH7Tb/260568
 http://uniplay.link:80/814365850/ZkSH7Tb/260567
 #EXTINF:-1 tvg-name="VERIFIED AMATEURS: ALICE REDLIPS"tvg-id=""tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png"group-title="Canais | Adultos +18",VERIFIED AMATEURS: ALICE REDLIPS
 http://uniplay.link:80/814365850/ZkSH7Tb/260566
-#EXTINF:-1 tvg-name="Universal TV UHD"tvg-id="Universalchannel.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/UNIVERSALTV.png"group-title="Canais | Filmes & Series",Universal TV UHD
+#EXTINF:-1 tvg-name="Universal TV UHD"tvg-id="Universalchannel.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/UNIVERSALTV.png"group-title="Canais | Filmes & Series",Universal TV
 http://uniplay.link:80/814365850/ZkSH7Tb/21288
-#EXTINF:-1 tvg-name="Universal TV SD"tvg-id="Universalchannel.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/UNIVERSALTV.png"group-title="Canais | Filmes & Series",Universal TV SD
+#EXTINF:-1 tvg-name="Universal TV SD"tvg-id="Universalchannel.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/UNIVERSALTV.png"group-title="Canais | Filmes & Series",Universal TV
 http://uniplay.link:80/814365850/ZkSH7Tb/741
-#EXTINF:-1 tvg-name="Universal TV HD"tvg-id="Universalchannel.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/UNIVERSALTV.png"group-title="Canais | Filmes & Series",Universal TV HD
+#EXTINF:-1 tvg-name="Universal TV HD"tvg-id="Universalchannel.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/UNIVERSALTV.png"group-title="Canais | Filmes & Series",Universal TV
 http://uniplay.link:80/814365850/ZkSH7Tb/742
-#EXTINF:-1 tvg-name="Universal TV FHD"tvg-id="Universalchannel.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/UNIVERSALTV.png"group-title="Canais | Filmes & Series",Universal TV FHD
+#EXTINF:-1 tvg-name="Universal TV FHD"tvg-id="Universalchannel.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/UNIVERSALTV.png"group-title="Canais | Filmes & Series",Universal TV
 http://uniplay.link:80/814365850/ZkSH7Tb/743
-#EXTINF:-1 tvg-name="Universal TV 4K "tvg-id="Universalchannel.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/UNIVERSALTV.png"group-title="Canais | 4K",Universal TV 4K
+#EXTINF:-1 tvg-name="Universal TV 4K "tvg-id="Universalchannel.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/UNIVERSALTV.png"group-title="Canais | 4K",Universal TV
 http://uniplay.link:80/814365850/ZkSH7Tb/284596
-#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL SD"tvg-id="Universalchannel.br"tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png"group-title="Canais | Filmes & Series",UNIVERSAL CHANNEL SD
+#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL SD"tvg-id="Universalchannel.br"tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png"group-title="Canais | Filmes & Series",UNIVERSAL CHANNEL
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/585.m3u8
-#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL SD"tvg-id="Universalchannel.br"tvg-logo="https://i.imgur.com/I1qcMwK.png"group-title="Canais | Filmes & Series",UNIVERSAL CHANNEL SD
+#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL SD"tvg-id="Universalchannel.br"tvg-logo="https://i.imgur.com/I1qcMwK.png"group-title="Canais | Filmes & Series",UNIVERSAL CHANNEL
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/585
-#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL HD"tvg-id="Universalchannel.br"tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png"group-title="Canais | Filmes & Series",UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL HD"tvg-id="Universalchannel.br"tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png"group-title="Canais | Filmes & Series",UNIVERSAL CHANNEL
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/90.m3u8
-#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL HD"tvg-id="Universalchannel.br"tvg-logo="https://i.imgur.com/I1qcMwK.png"group-title="Canais | Filmes & Series",UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL HD"tvg-id="Universalchannel.br"tvg-logo="https://i.imgur.com/I1qcMwK.png"group-title="Canais | Filmes & Series",UNIVERSAL CHANNEL
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/90
-#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL FHD H265"tvg-id="Universalchannel.br"tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png"group-title="Canais | Filmes & Series",UNIVERSAL CHANNEL FHD H265
+#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL FHD H265"tvg-id="Universalchannel.br"tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png"group-title="Canais | Filmes & Series",UNIVERSAL CHANNEL
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/301.m3u8
-#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL FHD H265"tvg-id="Universalchannel.br"tvg-logo="https://i.imgur.com/I1qcMwK.png"group-title="Canais | Filmes & Series",UNIVERSAL CHANNEL FHD H265
+#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL FHD H265"tvg-id="Universalchannel.br"tvg-logo="https://i.imgur.com/I1qcMwK.png"group-title="Canais | Filmes & Series",UNIVERSAL CHANNEL
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/301
-#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL FHD"tvg-id="Universalchannel.br"tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png"group-title="Canais | Filmes & Series",UNIVERSAL CHANNEL FHD
+#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL FHD"tvg-id="Universalchannel.br"tvg-logo="https://images2.imgbox.com/a0/59/Nj8XRd5W_o.png"group-title="Canais | Filmes & Series",UNIVERSAL CHANNEL
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/848.m3u8
-#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL FHD"tvg-id="Universalchannel.br"tvg-logo="https://i.imgur.com/I1qcMwK.png"group-title="Canais | Filmes & Series",UNIVERSAL CHANNEL FHD
+#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL FHD"tvg-id="Universalchannel.br"tvg-logo="https://i.imgur.com/I1qcMwK.png"group-title="Canais | Filmes & Series",UNIVERSAL CHANNEL
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/848
-#EXTINF:-1 tvg-name="UFC FIGHT PASS SD"tvg-id="UFCFightPass.br"tvg-logo="https://i.imgur.com/op123mz.png"group-title="Canais | Esportes",UFC FIGHT PASS SD
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/84481
-#EXTINF:-1 tvg-name="UFC FIGHT PASS HD"tvg-id="UFCFightPass.br"tvg-logo="https://i.imgur.com/op123mz.png"group-title="Canais | Esportes",UFC FIGHT PASS HD
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/84480
-#EXTINF:-1 tvg-name="UFC FIGHT PASS FHD"tvg-id="UFCFightPass.br"tvg-logo="https://i.imgur.com/op123mz.png"group-title="Canais | Esportes",UFC FIGHT PASS FHD
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/86157
 #EXTINF:-1 tvg-name="TVR VARIEDADES"tvg-id=""tvg-logo="https://i.imgur.com/3w7YS9T.png"group-title="Canais |  Abertos",TVR VARIEDADES
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/71138
 #EXTINF:-1 tvg-name="TV UNIVERSAL HD"tvg-id=""tvg-logo="https://i.imgur.com/P6jKYBk.png"group-title="CANAIS | RELIGIOSO",TV UNIVERSAL HD
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/31748
-#EXTINF:-1 tvg-name="TV SERIES SD"tvg-id=""tvg-logo="https://images2.imgbox.com/de/99/W4fXguQu_o.png"group-title="Canais | Filmes & Series",TV SERIES SD
-http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/60180.m3u8
-#EXTINF:-1 tvg-name="TV SERIES SD"tvg-id=""tvg-logo="https://i.imgur.com/S8LyZ3W.png"group-title="Canais | Filmes & Series",TV SERIES SD
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/60180
-#EXTINF:-1 tvg-name="TV SENADO"tvg-id="Tvsenado.br"tvg-logo="https://imgur.com/fvoJlfx.png"group-title="Canais | Noticias",TV SENADO
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/572
-#EXTINF:-1 tvg-name="TV REDE GOSPEL HD"tvg-id="rede.gospel.br"tvg-logo="https://imgur.com/uwqmYKE.png"group-title="CANAIS | RELIGIOSO",TV REDE GOSPEL HD
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/152
-#EXTINF:-1 tvg-name="TV REDE GOSPEL FHD"tvg-id="rede.gospel.br"tvg-logo="https://imgur.com/uwqmYKE.png"group-title="CANAIS | RELIGIOSO",TV REDE GOSPEL FHD
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/157
-#EXTINF:-1 tvg-name="TV RA-TIM-BUM SD"tvg-id="Tvratimbum.br"tvg-logo="https://images2.imgbox.com/33/a5/7Hopdu2D_o.png"group-title="Canais | Infantil",TV RA-TIM-BUM SD
-http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/571.m3u8
-#EXTINF:-1 tvg-name="TV RA-TIM-BUM SD"tvg-id="Tvratimbum.br"tvg-logo="https://imgur.com/gFJjJ8u.png"group-title="Canais | Infantil",TV RA-TIM-BUM SD
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/571
-#EXTINF:-1 tvg-name="TV RA-TIM-BUM HD"tvg-id="Tvratimbum.br"tvg-logo="https://images2.imgbox.com/33/a5/7Hopdu2D_o.png"group-title="Canais | Infantil",TV RA-TIM-BUM HD
-http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/88.m3u8
-#EXTINF:-1 tvg-name="TV RA-TIM-BUM HD"tvg-id="Tvratimbum.br"tvg-logo="https://imgur.com/gFJjJ8u.png"group-title="Canais | Infantil",TV RA-TIM-BUM HD
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/88
-#EXTINF:-1 tvg-name="TV Ra Tim Bum SD"tvg-id="Tvratimbum.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVRATIMBUM.png"group-title="Canais | Infantil",TV Ra Tim Bum SD
-http://uniplay.link:80/814365850/ZkSH7Tb/374
-#EXTINF:-1 tvg-name="TV Ra Tim Bum HD"tvg-id="Tvratimbum.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVRATIMBUM.png"group-title="Canais | Infantil",TV Ra Tim Bum HD
-http://uniplay.link:80/814365850/ZkSH7Tb/375
-#EXTINF:-1 tvg-name="TV Ra Tim Bum FHD"tvg-id="Tvratimbum.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVRATIMBUM.png"group-title="Canais | Infantil",TV Ra Tim Bum FHD
-http://uniplay.link:80/814365850/ZkSH7Tb/376
-#EXTINF:-1 tvg-name="TV PAMPA HD"tvg-id="Recorddf.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/RECORDTV.png"group-title="Canais |  Abertos",TV PAMPA HD
-http://uniplay.link:80/814365850/ZkSH7Tb/244139
-#EXTINF:-1 tvg-name="TV PAI ETERNO SD"tvg-id="Rci.br"tvg-logo="https://imgur.com/wvtPHOQ.png"group-title="CANAIS | RELIGIOSO",TV PAI ETERNO SD
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/82128
-#EXTINF:-1 tvg-name="TV PAI ETERNO HD"tvg-id=""tvg-logo="https://imgur.com/wvtPHOQ.png"group-title="CANAIS | RELIGIOSO",TV PAI ETERNO HD
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/82127
-#EXTINF:-1 tvg-name="TV NSPORTS HD (JOGO 3)"tvg-id=""tvg-logo="https://i.imgur.com/7D6PtjH.png"group-title="CANAIS | ESPORTES PPV",TV NSPORTS HD (JOGO 3)
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/165
-#EXTINF:-1 tvg-name="TV NSPORTS HD (JOGO 2)"tvg-id="NSports.br"tvg-logo="https://i.imgur.com/7D6PtjH.png"group-title="CANAIS | ESPORTES PPV",TV NSPORTS HD (JOGO 2)
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/164
-#EXTINF:-1 tvg-name="TV NSPORTS HD (JOGO 1)"tvg-id=""tvg-logo="https://i.imgur.com/7D6PtjH.png"group-title="CANAIS | ESPORTES PPV",TV NSPORTS HD (JOGO 1)
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/163
-#EXTINF:-1 tvg-name="TV Novo Tempo HD"tvg-id="Tvnovotempo.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVNOVOTEMPO.png"group-title="Canais |  Religiosos",TV Novo Tempo HD
-http://uniplay.link:80/814365850/ZkSH7Tb/201
-#EXTINF:-1 tvg-name="TV Novo Tempo FHD"tvg-id="Tvnovotempo.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVNOVOTEMPO.png"group-title="Canais |  Religiosos",TV Novo Tempo FHD
-http://uniplay.link:80/814365850/ZkSH7Tb/202
-#EXTINF:-1 tvg-name="TV Justica SD"tvg-id="Tvjustica.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVJUSTICA.png"group-title="Canais |  Abertos",TV Justica SD
-http://uniplay.link:80/814365850/ZkSH7Tb/177
-#EXTINF:-1 tvg-name="TV JUSTIÇA"tvg-id="Tvjustica.br"tvg-logo="https://images2.imgbox.com/47/5d/czAv1STM_o.png"group-title="Canais | Noticias",TV JUSTIÇA
-http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/569.m3u8
-#EXTINF:-1 tvg-name="TV JUSTIÇA"tvg-id="Tvjustica.br"tvg-logo="https://imgur.com/t5Ge0Fj.png"group-title="Canais | Noticias",TV JUSTIÇA
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/569
 #EXTINF:-1 tvg-name="TV GLOOBINHO SD"tvg-id="Gloobinho.br"tvg-logo="https://images2.imgbox.com/0f/a3/Jja9jFa4_o.png"group-title="Canais | Infantil",TV GLOOBINHO SD
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/3905.m3u8
 #EXTINF:-1 tvg-name="TV GLOOBINHO SD"tvg-id="Gloobinho.br"tvg-logo="https://imgur.com/lzaavhX.png"group-title="Canais | Infantil",TV GLOOBINHO SD
@@ -393,26 +335,6 @@ http://blacktv.syscdn.xyz:80/965874585452/232545854585/123
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/828.m3u8
 #EXTINF:-1 tvg-name="TV GLOOBINHO FHD "tvg-id="Gloobinho.br"tvg-logo="https://imgur.com/lzaavhX.png"group-title="Canais | Infantil",TV GLOOBINHO FHD
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/828
-#EXTINF:-1 tvg-name="TV GIDEOES"tvg-id=""tvg-logo="https://i.imgur.com/idJfCri.png"group-title="CANAIS | RELIGIOSO",TV GIDEOES
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/80159
-#EXTINF:-1 tvg-name="TV Gazeta SP SD"tvg-id="TVGazeta.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVGAZETA.png"group-title="Canais |  Abertos",TV Gazeta SP SD
-http://uniplay.link:80/814365850/ZkSH7Tb/173
-#EXTINF:-1 tvg-name="TV Gazeta SP HD"tvg-id="TVGazeta.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVGAZETA.png"group-title="Canais |  Abertos",TV Gazeta SP HD
-http://uniplay.link:80/814365850/ZkSH7Tb/174
-#EXTINF:-1 tvg-name="TV Gazeta SP FHD"tvg-id="TVGazeta.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVGAZETA.png"group-title="Canais |  Abertos",TV Gazeta SP FHD
-http://uniplay.link:80/814365850/ZkSH7Tb/175
-#EXTINF:-1 tvg-name="TV GAZETA HD SP"tvg-id="TVGazeta.br"tvg-logo="https://images2.imgbox.com/1e/da/pv4OBLLk_o.png"group-title="Canais |  Abertos",TV GAZETA HD SP
-http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/333.m3u8
-#EXTINF:-1 tvg-name="TV GAZETA HD SP"tvg-id="TVGazeta.br"tvg-logo="https://i.imgur.com/UQDAyDd.png"group-title="Canais |  Abertos",TV GAZETA HD SP
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/333
-#EXTINF:-1 tvg-name="TV EVANGELIZAR HD"tvg-id=""tvg-logo="https://imgur.com/efCUPfT.png"group-title="CANAIS | RELIGIOSO",TV EVANGELIZAR HD
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/31750
-#EXTINF:-1 tvg-name="TV Evangelizar HD"tvg-id="Tvaparecida.br"tvg-logo="https://play-lh.googleusercontent.com/ac3LlHPagi2A5c3nlZLBEM8ipoRos3dGtu58dDU9dYGr-58w73Y0c1R8PtRBCeivO4o"group-title="Canais |  Religiosos",TV Evangelizar HD
-http://uniplay.link:80/814365850/ZkSH7Tb/186967
-#EXTINF:-1 tvg-name="TV ESCOLA"tvg-id=""tvg-logo="https://images2.imgbox.com/80/69/yyqSrfKp_o.png"group-title="Canais |  Abertos",TV ESCOLA
-http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/589.m3u8
-#EXTINF:-1 tvg-name="TV ESCOLA"tvg-id=""tvg-logo="https://imgur.com/vD9262W.png"group-title="Canais |  Abertos",TV ESCOLA
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/589
 #EXTINF:-1 tvg-name="TV Diario SD"tvg-id="Tvdiariosp.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TVDIARIO.png"group-title="Canais |  Abertos",TV Diario SD
 http://uniplay.link:80/814365850/ZkSH7Tb/169
 #EXTINF:-1 tvg-name="TV DIARIO NORDESTE"tvg-id=""tvg-logo="https://images2.imgbox.com/f5/b9/N26CS3f1_o.png"group-title="Canais |  Abertos",TV DIARIO NORDESTE
@@ -623,199 +545,199 @@ http://uniplay.link:80/814365850/ZkSH7Tb/728
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/809.m3u8
 #EXTINF:-1 tvg-name="TLC FHD "tvg-id="Tlc.br"tvg-logo="https://imgur.com/S37uvno.png"group-title="Canais | Documentarios",TLC FHD
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/809
-#EXTINF:-1 tvg-name="Telecine Touch UHD"tvg-id="Tctouch.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Touch UHD
+#EXTINF:-1 tvg-name="Telecine Touch UHD"tvg-id="Tctouch.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Touch
 http://uniplay.link:80/814365850/ZkSH7Tb/21284
-#EXTINF:-1 tvg-name="TELECINE TOUCH SD"tvg-id="Tctouch.br"tvg-logo="https://images2.imgbox.com/e0/aa/diZl7CGP_o.png"group-title="Canais | Telecine",TELECINE TOUCH SD
+#EXTINF:-1 tvg-name="TELECINE TOUCH SD"tvg-id="Tctouch.br"tvg-logo="https://images2.imgbox.com/e0/aa/diZl7CGP_o.png"group-title="Canais | Telecine",Telecine Touch
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/556.m3u8
-#EXTINF:-1 tvg-name="Telecine Touch SD"tvg-id="Tctouch.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Touch SD
+#EXTINF:-1 tvg-name="Telecine Touch SD"tvg-id="Tctouch.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Touch
 http://uniplay.link:80/814365850/ZkSH7Tb/586
-#EXTINF:-1 tvg-name="TELECINE TOUCH SD"tvg-id="Tctouch.br"tvg-logo="https://imgur.com/f5TPZe4.png"group-title="Canais | Telecine",TELECINE TOUCH SD
+#EXTINF:-1 tvg-name="TELECINE TOUCH SD"tvg-id="Tctouch.br"tvg-logo="https://imgur.com/f5TPZe4.png"group-title="Canais | Telecine",Telecine Touch
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/556
-#EXTINF:-1 tvg-name="Telecine Touch HD²"tvg-id="Tctouch.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Touch HD²
+#EXTINF:-1 tvg-name="Telecine Touch HD²"tvg-id="Tctouch.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Touch
 http://uniplay.link:80/814365850/ZkSH7Tb/588
-#EXTINF:-1 tvg-name="TELECINE TOUCH HD LEG"tvg-id="Tctouch.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Legendados",TELECINE TOUCH HD LEG
+#EXTINF:-1 tvg-name="TELECINE TOUCH HD LEG"tvg-id="Tctouch.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Legendados",Telecine Touch FHD [LEG ]
 http://uniplay.link:80/814365850/ZkSH7Tb/118911
-#EXTINF:-1 tvg-name="TELECINE TOUCH HD"tvg-id="Tctouch.br"tvg-logo="https://images2.imgbox.com/e0/aa/diZl7CGP_o.png"group-title="Canais | Telecine",TELECINE TOUCH HD
+#EXTINF:-1 tvg-name="TELECINE TOUCH HD"tvg-id="Tctouch.br"tvg-logo="https://images2.imgbox.com/e0/aa/diZl7CGP_o.png"group-title="Canais | Telecine",Telecine Touch
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/82.m3u8
-#EXTINF:-1 tvg-name="Telecine Touch HD"tvg-id="Tctouch.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Touch HD
+#EXTINF:-1 tvg-name="Telecine Touch HD"tvg-id="Tctouch.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Touch
 http://uniplay.link:80/814365850/ZkSH7Tb/587
-#EXTINF:-1 tvg-name="TELECINE TOUCH HD"tvg-id="Tctouch.br"tvg-logo="https://imgur.com/f5TPZe4.png"group-title="Canais | Telecine",TELECINE TOUCH HD
+#EXTINF:-1 tvg-name="TELECINE TOUCH HD"tvg-id="Tctouch.br"tvg-logo="https://imgur.com/f5TPZe4.png"group-title="Canais | Telecine",Telecine Touch
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/82
-#EXTINF:-1 tvg-name="TELECINE TOUCH H265"tvg-id="Tctouch.br"tvg-logo="https://images2.imgbox.com/e0/aa/diZl7CGP_o.png"group-title="Canais | Telecine",TELECINE TOUCH H265
+#EXTINF:-1 tvg-name="TELECINE TOUCH H265"tvg-id="Tctouch.br"tvg-logo="https://images2.imgbox.com/e0/aa/diZl7CGP_o.png"group-title="Canais | Telecine",Telecine Touch
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/294.m3u8
-#EXTINF:-1 tvg-name="TELECINE TOUCH H265"tvg-id="Tctouch.br"tvg-logo="https://imgur.com/f5TPZe4.png"group-title="Canais | Telecine",TELECINE TOUCH H265
+#EXTINF:-1 tvg-name="TELECINE TOUCH H265"tvg-id="Tctouch.br"tvg-logo="https://imgur.com/f5TPZe4.png"group-title="Canais | Telecine",Telecine Touch
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/294
 #EXTINF:-1 tvg-name="Telecine Touch FHD [LEG ]"tvg-id="Tctouch.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Legendados",Telecine Touch FHD [LEG ]
 http://uniplay.link:80/814365850/ZkSH7Tb/118912
-#EXTINF:-1 tvg-name="TELECINE TOUCH FHD "tvg-id="Tctouch.br"tvg-logo="https://images2.imgbox.com/e0/aa/diZl7CGP_o.png"group-title="Canais | Telecine",TELECINE TOUCH FHD
+#EXTINF:-1 tvg-name="TELECINE TOUCH FHD "tvg-id="Tctouch.br"tvg-logo="https://images2.imgbox.com/e0/aa/diZl7CGP_o.png"group-title="Canais | Telecine",Telecine Touch
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/788.m3u8
-#EXTINF:-1 tvg-name="Telecine Touch FHD"tvg-id="Tctouch.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Touch FHD
+#EXTINF:-1 tvg-name="Telecine Touch FHD"tvg-id="Tctouch.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Touch
 http://uniplay.link:80/814365850/ZkSH7Tb/589
-#EXTINF:-1 tvg-name="TELECINE TOUCH FHD "tvg-id="Tctouch.br"tvg-logo="https://imgur.com/f5TPZe4.png"group-title="Canais | Telecine",TELECINE TOUCH FHD
+#EXTINF:-1 tvg-name="TELECINE TOUCH FHD "tvg-id="Tctouch.br"tvg-logo="https://imgur.com/f5TPZe4.png"group-title="Canais | Telecine",Telecine Touch
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/788
-#EXTINF:-1 tvg-name="Telecine Premium UHD"tvg-id="Tcpremium.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Premium UHD
+#EXTINF:-1 tvg-name="Telecine Premium UHD"tvg-id="Tcpremium.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Premium
 http://uniplay.link:80/814365850/ZkSH7Tb/21283
-#EXTINF:-1 tvg-name="TELECINE PREMIUM SD"tvg-id="Tcpremium.br"tvg-logo="https://images2.imgbox.com/42/21/BYMM8aSx_o.png"group-title="Canais | Telecine",TELECINE PREMIUM SD
+#EXTINF:-1 tvg-name="TELECINE PREMIUM SD"tvg-id="Tcpremium.br"tvg-logo="https://images2.imgbox.com/42/21/BYMM8aSx_o.png"group-title="Canais | Telecine",Telecine Premium
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/555.m3u8
-#EXTINF:-1 tvg-name="Telecine Premium SD"tvg-id="Tcpremium.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Premium SD
+#EXTINF:-1 tvg-name="Telecine Premium SD"tvg-id="Tcpremium.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Premium
 http://uniplay.link:80/814365850/ZkSH7Tb/632
-#EXTINF:-1 tvg-name="TELECINE PREMIUM SD"tvg-id="Tcpremium.br"tvg-logo="https://imgur.com/VjdttBW.png"group-title="Canais | Telecine",TELECINE PREMIUM SD
+#EXTINF:-1 tvg-name="TELECINE PREMIUM SD"tvg-id="Tcpremium.br"tvg-logo="https://imgur.com/VjdttBW.png"group-title="Canais | Telecine",Telecine Premium
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/555
-#EXTINF:-1 tvg-name="Telecine Premium HD²"tvg-id="Tcpremium.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Premium HD²
+#EXTINF:-1 tvg-name="Telecine Premium HD²"tvg-id="Tcpremium.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Premium
 http://uniplay.link:80/814365850/ZkSH7Tb/634
 #EXTINF:-1 tvg-name="Telecine Premium HD [LEG ]"tvg-id="Tcpremium.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Legendados",Telecine Premium HD [LEG ]
 http://uniplay.link:80/814365850/ZkSH7Tb/118909
-#EXTINF:-1 tvg-name="TELECINE PREMIUM HD"tvg-id="Tcpremium.br"tvg-logo="https://images2.imgbox.com/42/21/BYMM8aSx_o.png"group-title="Canais | Telecine",TELECINE PREMIUM HD
+#EXTINF:-1 tvg-name="TELECINE PREMIUM HD"tvg-id="Tcpremium.br"tvg-logo="https://images2.imgbox.com/42/21/BYMM8aSx_o.png"group-title="Canais | Telecine",Telecine Premium
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/81.m3u8
-#EXTINF:-1 tvg-name="Telecine Premium HD"tvg-id="Tcpremium.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Premium HD
+#EXTINF:-1 tvg-name="Telecine Premium HD"tvg-id="Tcpremium.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Premium
 http://uniplay.link:80/814365850/ZkSH7Tb/633
-#EXTINF:-1 tvg-name="TELECINE PREMIUM HD"tvg-id="Tcpremium.br"tvg-logo="https://imgur.com/VjdttBW.png"group-title="Canais | Telecine",TELECINE PREMIUM HD
+#EXTINF:-1 tvg-name="TELECINE PREMIUM HD"tvg-id="Tcpremium.br"tvg-logo="https://imgur.com/VjdttBW.png"group-title="Canais | Telecine",Telecine Premium
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/81
-#EXTINF:-1 tvg-name="TELECINE PREMIUM H265"tvg-id="Tcpremium.br"tvg-logo="https://images2.imgbox.com/42/21/BYMM8aSx_o.png"group-title="Canais | Telecine",TELECINE PREMIUM H265
+#EXTINF:-1 tvg-name="TELECINE PREMIUM H265"tvg-id="Tcpremium.br"tvg-logo="https://images2.imgbox.com/42/21/BYMM8aSx_o.png"group-title="Canais | Telecine",Telecine Premium
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/293.m3u8
-#EXTINF:-1 tvg-name="TELECINE PREMIUM H265"tvg-id="Tcpremium.br"tvg-logo="https://imgur.com/VjdttBW.png"group-title="Canais | Telecine",TELECINE PREMIUM H265
+#EXTINF:-1 tvg-name="TELECINE PREMIUM H265"tvg-id="Tcpremium.br"tvg-logo="https://imgur.com/VjdttBW.png"group-title="Canais | Telecine",Telecine Premium
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/293
 #EXTINF:-1 tvg-name="Telecine Premium FHD [LEG ]"tvg-id="Tcpremium.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Legendados",Telecine Premium FHD [LEG ]
 http://uniplay.link:80/814365850/ZkSH7Tb/118910
-#EXTINF:-1 tvg-name="TELECINE PREMIUM FHD"tvg-id="Tcpremium.br"tvg-logo="https://images2.imgbox.com/42/21/BYMM8aSx_o.png"group-title="Canais | Telecine",TELECINE PREMIUM FHD
+#EXTINF:-1 tvg-name="TELECINE PREMIUM FHD"tvg-id="Tcpremium.br"tvg-logo="https://images2.imgbox.com/42/21/BYMM8aSx_o.png"group-title="Canais | Telecine",Telecine Premium
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/786.m3u8
-#EXTINF:-1 tvg-name="Telecine Premium FHD"tvg-id="Tcpremium.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Premium FHD
+#EXTINF:-1 tvg-name="Telecine Premium FHD"tvg-id="Tcpremium.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Premium
 http://uniplay.link:80/814365850/ZkSH7Tb/635
-#EXTINF:-1 tvg-name="TELECINE PREMIUM FHD"tvg-id="Tcpremium.br"tvg-logo="https://imgur.com/VjdttBW.png"group-title="Canais | Telecine",TELECINE PREMIUM FHD
+#EXTINF:-1 tvg-name="TELECINE PREMIUM FHD"tvg-id="Tcpremium.br"tvg-logo="https://imgur.com/VjdttBW.png"group-title="Canais | Telecine",Telecine Premium
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/786
-#EXTINF:-1 tvg-name="TELECINE PREMIUM 4K"tvg-id="Tcpremium.br"tvg-logo="https://images2.imgbox.com/42/21/BYMM8aSx_o.png"group-title="Canais | 4K",TELECINE PREMIUM 4K
+#EXTINF:-1 tvg-name="TELECINE PREMIUM 4K"tvg-id="Tcpremium.br"tvg-logo="https://images2.imgbox.com/42/21/BYMM8aSx_o.png"group-title="Canais | 4K",Telecine Premium
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/80554.m3u8
-#EXTINF:-1 tvg-name="TELECINE PREMIUM 4K"tvg-id="Tcpremium.br"tvg-logo="https://imgur.com/VjdttBW.png"group-title="Canais | 4K",TELECINE PREMIUM 4K
+#EXTINF:-1 tvg-name="TELECINE PREMIUM 4K"tvg-id="Tcpremium.br"tvg-logo="https://imgur.com/VjdttBW.png"group-title="Canais | 4K",Telecine Premium
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/80554
-#EXTINF:-1 tvg-name="Telecine Premium 4K "tvg-id="Tcpremium.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | 4K",Telecine Premium 4K
+#EXTINF:-1 tvg-name="Telecine Premium 4K "tvg-id="Tcpremium.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | 4K",Telecine Premium
 http://uniplay.link:80/814365850/ZkSH7Tb/284599
 #EXTINF:-1 tvg-name="Telecine Pipoca UHD"tvg-id="Tcpipoca.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Pipoca UHD
 http://uniplay.link:80/814365850/ZkSH7Tb/21282
-#EXTINF:-1 tvg-name="TELECINE PIPOCA SD"tvg-id="Tcpipoca.br"tvg-logo="https://images2.imgbox.com/10/38/4K9WNUDh_o.png"group-title="Canais | Telecine",TELECINE PIPOCA SD
+#EXTINF:-1 tvg-name="TELECINE PIPOCA SD"tvg-id="Tcpipoca.br"tvg-logo="https://images2.imgbox.com/10/38/4K9WNUDh_o.png"group-title="Canais | Telecine",Telecine Pipoca
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/554.m3u8
-#EXTINF:-1 tvg-name="Telecine Pipoca SD"tvg-id="Tcpipoca.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Pipoca SD
+#EXTINF:-1 tvg-name="Telecine Pipoca SD"tvg-id="Tcpipoca.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Pipoca
 http://uniplay.link:80/814365850/ZkSH7Tb/627
-#EXTINF:-1 tvg-name="TELECINE PIPOCA SD"tvg-id="Tcpipoca.br"tvg-logo="https://imgur.com/uLUN3d9.png"group-title="Canais | Telecine",TELECINE PIPOCA SD
+#EXTINF:-1 tvg-name="TELECINE PIPOCA SD"tvg-id="Tcpipoca.br"tvg-logo="https://imgur.com/uLUN3d9.png"group-title="Canais | Telecine",Telecine Pipoca
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/554
-#EXTINF:-1 tvg-name="Telecine Pipoca HD²"tvg-id="Tcpipoca.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Pipoca HD²
+#EXTINF:-1 tvg-name="Telecine Pipoca HD²"tvg-id="Tcpipoca.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Pipoca
 http://uniplay.link:80/814365850/ZkSH7Tb/629
 #EXTINF:-1 tvg-name="Telecine Pipoca HD [LEG ]"tvg-id="Tcpipoca.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Legendados",Telecine Pipoca HD [LEG ]
 http://uniplay.link:80/814365850/ZkSH7Tb/118907
-#EXTINF:-1 tvg-name="TELECINE PIPOCA HD"tvg-id="Tcpipoca.br"tvg-logo="https://images2.imgbox.com/10/38/4K9WNUDh_o.png"group-title="Canais | Telecine",TELECINE PIPOCA HD
+#EXTINF:-1 tvg-name="TELECINE PIPOCA HD"tvg-id="Tcpipoca.br"tvg-logo="https://images2.imgbox.com/10/38/4K9WNUDh_o.png"group-title="Canais | Telecine",Telecine Pipoca
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/80.m3u8
-#EXTINF:-1 tvg-name="Telecine Pipoca HD"tvg-id="Tcpipoca.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Pipoca HD
+#EXTINF:-1 tvg-name="Telecine Pipoca HD"tvg-id="Tcpipoca.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Pipoca
 http://uniplay.link:80/814365850/ZkSH7Tb/628
-#EXTINF:-1 tvg-name="TELECINE PIPOCA HD"tvg-id="Tcpipoca.br"tvg-logo="https://imgur.com/uLUN3d9.png"group-title="Canais | Telecine",TELECINE PIPOCA HD
+#EXTINF:-1 tvg-name="TELECINE PIPOCA HD"tvg-id="Tcpipoca.br"tvg-logo="https://imgur.com/uLUN3d9.png"group-title="Canais | Telecine",Telecine Pipoca
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/80
-#EXTINF:-1 tvg-name="TELECINE PIPOCA H265"tvg-id="Tcpipoca.br"tvg-logo="https://images2.imgbox.com/10/38/4K9WNUDh_o.png"group-title="Canais | Telecine",TELECINE PIPOCA H265
+#EXTINF:-1 tvg-name="TELECINE PIPOCA H265"tvg-id="Tcpipoca.br"tvg-logo="https://images2.imgbox.com/10/38/4K9WNUDh_o.png"group-title="Canais | Telecine",Telecine Pipoca
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/292.m3u8
-#EXTINF:-1 tvg-name="TELECINE PIPOCA H265"tvg-id="Tcpipoca.br"tvg-logo="https://imgur.com/uLUN3d9.png"group-title="Canais | Telecine",TELECINE PIPOCA H265
+#EXTINF:-1 tvg-name="TELECINE PIPOCA H265"tvg-id="Tcpipoca.br"tvg-logo="https://imgur.com/uLUN3d9.png"group-title="Canais | Telecine",Telecine Pipoca
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/292
 #EXTINF:-1 tvg-name="Telecine Pipoca FHD [LEG ]"tvg-id="Tcpipoca.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Legendados",Telecine Pipoca FHD [LEG ]
 http://uniplay.link:80/814365850/ZkSH7Tb/118908
-#EXTINF:-1 tvg-name="TELECINE PIPOCA FHD "tvg-id="Tcpipoca.br"tvg-logo="https://images2.imgbox.com/10/38/4K9WNUDh_o.png"group-title="Canais | Telecine",TELECINE PIPOCA FHD
+#EXTINF:-1 tvg-name="TELECINE PIPOCA FHD "tvg-id="Tcpipoca.br"tvg-logo="https://images2.imgbox.com/10/38/4K9WNUDh_o.png"group-title="Canais | Telecine",Telecine Pipoca
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/789.m3u8
-#EXTINF:-1 tvg-name="Telecine Pipoca FHD"tvg-id="Tcpipoca.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Pipoca FHD
+#EXTINF:-1 tvg-name="Telecine Pipoca FHD"tvg-id="Tcpipoca.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Pipoca
 http://uniplay.link:80/814365850/ZkSH7Tb/630
-#EXTINF:-1 tvg-name="TELECINE PIPOCA FHD "tvg-id="Tcpipoca.br"tvg-logo="https://imgur.com/uLUN3d9.png"group-title="Canais | Telecine",TELECINE PIPOCA FHD
+#EXTINF:-1 tvg-name="TELECINE PIPOCA FHD "tvg-id="Tcpipoca.br"tvg-logo="https://imgur.com/uLUN3d9.png"group-title="Canais | Telecine",Telecine Pipoca
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/789
-#EXTINF:-1 tvg-name="TELECINE PIPOCA 4K"tvg-id="Tcpipoca.br"tvg-logo="https://images2.imgbox.com/10/38/4K9WNUDh_o.png"group-title="Canais | 4K",TELECINE PIPOCA 4K
+#EXTINF:-1 tvg-name="TELECINE PIPOCA 4K"tvg-id="Tcpipoca.br"tvg-logo="https://images2.imgbox.com/10/38/4K9WNUDh_o.png"group-title="Canais | 4K",Telecine Pipoca
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/80575.m3u8
-#EXTINF:-1 tvg-name="TELECINE PIPOCA 4K"tvg-id="Tcpipoca.br"tvg-logo="https://imgur.com/uLUN3d9.png"group-title="Canais | 4K",TELECINE PIPOCA 4K
+#EXTINF:-1 tvg-name="TELECINE PIPOCA 4K"tvg-id="Tcpipoca.br"tvg-logo="https://imgur.com/uLUN3d9.png"group-title="Canais | 4K",Telecine Pipoca
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/80575
-#EXTINF:-1 tvg-name="Telecine Pipoca 4K"tvg-id="Tcpipoca.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | 4K",Telecine Pipoca 4K
+#EXTINF:-1 tvg-name="Telecine Pipoca 4K"tvg-id="Tcpipoca.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | 4K",Telecine Pipoca
 http://uniplay.link:80/814365850/ZkSH7Tb/284598
-#EXTINF:-1 tvg-name="Telecine Fun UHD"tvg-id="Tcfun.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Fun UHD
+#EXTINF:-1 tvg-name="Telecine Fun UHD"tvg-id="Tcfun.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Fun
 http://uniplay.link:80/814365850/ZkSH7Tb/21281
-#EXTINF:-1 tvg-name="TELECINE FUN SD"tvg-id="Tcfun.br"tvg-logo="https://images2.imgbox.com/62/7b/OnTjFGgJ_o.png"group-title="Canais | Telecine",TELECINE FUN SD
+#EXTINF:-1 tvg-name="TELECINE FUN SD"tvg-id="Tcfun.br"tvg-logo="https://images2.imgbox.com/62/7b/OnTjFGgJ_o.png"group-title="Canais | Telecine",Telecine Fun
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/553.m3u8
-#EXTINF:-1 tvg-name="Telecine Fun SD"tvg-id="Tcfun.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Fun SD
+#EXTINF:-1 tvg-name="Telecine Fun SD"tvg-id="Tcfun.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Fun
 http://uniplay.link:80/814365850/ZkSH7Tb/622
-#EXTINF:-1 tvg-name="TELECINE FUN SD"tvg-id="Tcfun.br"tvg-logo="https://imgur.com/9uzg3hN.png"group-title="Canais | Telecine",TELECINE FUN SD
+#EXTINF:-1 tvg-name="TELECINE FUN SD"tvg-id="Tcfun.br"tvg-logo="https://imgur.com/9uzg3hN.png"group-title="Canais | Telecine",Telecine Fun
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/553
-#EXTINF:-1 tvg-name="Telecine Fun HD²"tvg-id="Tcfun.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Fun HD²
+#EXTINF:-1 tvg-name="Telecine Fun HD²"tvg-id="Tcfun.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Fun 
 http://uniplay.link:80/814365850/ZkSH7Tb/624
 #EXTINF:-1 tvg-name="Telecine Fun HD [LEG ]"tvg-id="Tcfun.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Legendados",Telecine Fun HD [LEG ]
 http://uniplay.link:80/814365850/ZkSH7Tb/118905
-#EXTINF:-1 tvg-name="TELECINE FUN HD"tvg-id="Tcfun.br"tvg-logo="https://images2.imgbox.com/62/7b/OnTjFGgJ_o.png"group-title="Canais | Telecine",TELECINE FUN HD
+#EXTINF:-1 tvg-name="TELECINE FUN HD"tvg-id="Tcfun.br"tvg-logo="https://images2.imgbox.com/62/7b/OnTjFGgJ_o.png"group-title="Canais | Telecine",Telecine Fun
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/79.m3u8
-#EXTINF:-1 tvg-name="Telecine Fun HD"tvg-id="Tcfun.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Fun HD
+#EXTINF:-1 tvg-name="Telecine Fun HD"tvg-id="Tcfun.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Fun
 http://uniplay.link:80/814365850/ZkSH7Tb/623
-#EXTINF:-1 tvg-name="TELECINE FUN HD"tvg-id="Tcfun.br"tvg-logo="https://imgur.com/9uzg3hN.png"group-title="Canais | Telecine",TELECINE FUN HD
+#EXTINF:-1 tvg-name="TELECINE FUN HD"tvg-id="Tcfun.br"tvg-logo="https://imgur.com/9uzg3hN.png"group-title="Canais | Telecine",Telecine Fun
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/79
-#EXTINF:-1 tvg-name="TELECINE FUN H265 "tvg-id="Tcfun.br"tvg-logo="https://images2.imgbox.com/62/7b/OnTjFGgJ_o.png"group-title="Canais | Telecine",TELECINE FUN H265
+#EXTINF:-1 tvg-name="TELECINE FUN H265 "tvg-id="Tcfun.br"tvg-logo="https://images2.imgbox.com/62/7b/OnTjFGgJ_o.png"group-title="Canais | Telecine",Telecine Fun
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/291.m3u8
-#EXTINF:-1 tvg-name="TELECINE FUN H265 "tvg-id="Tcfun.br"tvg-logo="https://imgur.com/9uzg3hN.png"group-title="Canais | Telecine",TELECINE FUN H265
+#EXTINF:-1 tvg-name="TELECINE FUN H265 "tvg-id="Tcfun.br"tvg-logo="https://imgur.com/9uzg3hN.png"group-title="Canais | Telecine",Telecine Fun 
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/291
 #EXTINF:-1 tvg-name="Telecine Fun FHD [LEG ]"tvg-id="Tcfun.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Legendados",Telecine Fun FHD [LEG ]
 http://uniplay.link:80/814365850/ZkSH7Tb/118906
-#EXTINF:-1 tvg-name="TELECINE FUN FHD"tvg-id="Tcfun.br"tvg-logo="https://images2.imgbox.com/62/7b/OnTjFGgJ_o.png"group-title="Canais | Telecine",TELECINE FUN FHD
+#EXTINF:-1 tvg-name="TELECINE FUN FHD"tvg-id="Tcfun.br"tvg-logo="https://images2.imgbox.com/62/7b/OnTjFGgJ_o.png"group-title="Canais | Telecine",Telecine Fun
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/790.m3u8
-#EXTINF:-1 tvg-name="Telecine Fun FHD"tvg-id="Tcfun.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Fun FHD
+#EXTINF:-1 tvg-name="Telecine Fun FHD"tvg-id="Tcfun.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Fun
 http://uniplay.link:80/814365850/ZkSH7Tb/625
-#EXTINF:-1 tvg-name="TELECINE FUN FHD"tvg-id="Tcfun.br"tvg-logo="https://imgur.com/9uzg3hN.png"group-title="Canais | Telecine",TELECINE FUN FHD
+#EXTINF:-1 tvg-name="TELECINE FUN FHD"tvg-id="Tcfun.br"tvg-logo="https://imgur.com/9uzg3hN.png"group-title="Canais | Telecine",Telecine Fun 
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/790
-#EXTINF:-1 tvg-name="Telecine Cult UHD"tvg-id="Tccult.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Cult UHD
+#EXTINF:-1 tvg-name="Telecine Cult UHD"tvg-id="Tccult.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Cult
 http://uniplay.link:80/814365850/ZkSH7Tb/21280
-#EXTINF:-1 tvg-name="TELECINE CULT SD"tvg-id="Tccult.br"tvg-logo="https://images2.imgbox.com/8a/24/bf0MqOkD_o.png"group-title="Canais | Telecine",TELECINE CULT SD
+#EXTINF:-1 tvg-name="TELECINE CULT SD"tvg-id="Tccult.br"tvg-logo="https://images2.imgbox.com/8a/24/bf0MqOkD_o.png"group-title="Canais | Telecine",Telecine Cult
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/552.m3u8
-#EXTINF:-1 tvg-name="Telecine Cult SD"tvg-id="Tccult.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Cult SD
+#EXTINF:-1 tvg-name="Telecine Cult SD"tvg-id="Tccult.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Cult
 http://uniplay.link:80/814365850/ZkSH7Tb/617
-#EXTINF:-1 tvg-name="TELECINE CULT SD"tvg-id="Tccult.br"tvg-logo="https://imgur.com/UI5Z3cf.png"group-title="Canais | Telecine",TELECINE CULT SD
+#EXTINF:-1 tvg-name="TELECINE CULT SD"tvg-id="Tccult.br"tvg-logo="https://imgur.com/UI5Z3cf.png"group-title="Canais | Telecine",Telecine Cult
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/552
-#EXTINF:-1 tvg-name="Telecine Cult HD²"tvg-id="Tccult.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Cult HD²
+#EXTINF:-1 tvg-name="Telecine Cult HD²"tvg-id="Tccult.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Cult
 http://uniplay.link:80/814365850/ZkSH7Tb/619
 #EXTINF:-1 tvg-name="Telecine Cult HD [LEG ]"tvg-id="Tccult.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Legendados",Telecine Cult HD [LEG ]
 http://uniplay.link:80/814365850/ZkSH7Tb/118904
-#EXTINF:-1 tvg-name="TELECINE CULT HD"tvg-id="Tccult.br"tvg-logo="https://images2.imgbox.com/8a/24/bf0MqOkD_o.png"group-title="Canais | Telecine",TELECINE CULT HD
+#EXTINF:-1 tvg-name="TELECINE CULT HD"tvg-id="Tccult.br"tvg-logo="https://images2.imgbox.com/8a/24/bf0MqOkD_o.png"group-title="Canais | Telecine",Telecine Cult
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/78.m3u8
-#EXTINF:-1 tvg-name="Telecine Cult HD"tvg-id="Tccult.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Cult HD
+#EXTINF:-1 tvg-name="Telecine Cult HD"tvg-id="Tccult.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Cult
 http://uniplay.link:80/814365850/ZkSH7Tb/618
-#EXTINF:-1 tvg-name="TELECINE CULT HD"tvg-id="Tccult.br"tvg-logo="https://imgur.com/UI5Z3cf.png"group-title="Canais | Telecine",TELECINE CULT HD
+#EXTINF:-1 tvg-name="TELECINE CULT HD"tvg-id="Tccult.br"tvg-logo="https://imgur.com/UI5Z3cf.png"group-title="Canais | Telecine",Telecine Cult
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/78
-#EXTINF:-1 tvg-name="TELECINE CULT H265"tvg-id="Tccult.br"tvg-logo="https://images2.imgbox.com/8a/24/bf0MqOkD_o.png"group-title="Canais | Telecine",TELECINE CULT H265
+#EXTINF:-1 tvg-name="TELECINE CULT H265"tvg-id="Tccult.br"tvg-logo="https://images2.imgbox.com/8a/24/bf0MqOkD_o.png"group-title="Canais | Telecine",Telecine Cult
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/290.m3u8
-#EXTINF:-1 tvg-name="TELECINE CULT H265"tvg-id="Tccult.br"tvg-logo="https://imgur.com/UI5Z3cf.png"group-title="Canais | Telecine",TELECINE CULT H265
+#EXTINF:-1 tvg-name="TELECINE CULT H265"tvg-id="Tccult.br"tvg-logo="https://imgur.com/UI5Z3cf.png"group-title="Canais | Telecine",Telecine Cult
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/290
 #EXTINF:-1 tvg-name="Telecine Cult FHD [LEG ]"tvg-id="Tccult.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Legendados",Telecine Cult FHD [LEG ]
 http://uniplay.link:80/814365850/ZkSH7Tb/118903
-#EXTINF:-1 tvg-name="TELECINE CULT FHD "tvg-id="Tccult.br"tvg-logo="https://images2.imgbox.com/8a/24/bf0MqOkD_o.png"group-title="Canais | Telecine",TELECINE CULT FHD
+#EXTINF:-1 tvg-name="TELECINE CULT FHD "tvg-id="Tccult.br"tvg-logo="https://images2.imgbox.com/8a/24/bf0MqOkD_o.png"group-title="Canais | Telecine",Telecine Cult
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/791.m3u8
-#EXTINF:-1 tvg-name="Telecine Cult FHD"tvg-id="Tccult.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Cult FHD
+#EXTINF:-1 tvg-name="Telecine Cult FHD"tvg-id="Tccult.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Cult
 http://uniplay.link:80/814365850/ZkSH7Tb/620
-#EXTINF:-1 tvg-name="TELECINE CULT FHD "tvg-id="Tccult.br"tvg-logo="https://imgur.com/UI5Z3cf.png"group-title="Canais | Telecine",TELECINE CULT FHD
+#EXTINF:-1 tvg-name="TELECINE CULT FHD "tvg-id="Tccult.br"tvg-logo="https://imgur.com/UI5Z3cf.png"group-title="Canais | Telecine",Telecine Cult
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/791
-#EXTINF:-1 tvg-name="Telecine Action UHD"tvg-id="Tcaction.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Action UHD
+#EXTINF:-1 tvg-name="Telecine Action UHD"tvg-id="Tcaction.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Action
 http://uniplay.link:80/814365850/ZkSH7Tb/21279
-#EXTINF:-1 tvg-name="TELECINE ACTION SD"tvg-id="Tcaction.br"tvg-logo="https://images2.imgbox.com/64/e8/GnaJaVwm_o.png"group-title="Canais | Telecine",TELECINE ACTION SD
+#EXTINF:-1 tvg-name="TELECINE ACTION SD"tvg-id="Tcaction.br"tvg-logo="https://images2.imgbox.com/64/e8/GnaJaVwm_o.png"group-title="Canais | Telecine",Telecine Action
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/551.m3u8
-#EXTINF:-1 tvg-name="Telecine Action SD"tvg-id="Tcaction.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Action SD
+#EXTINF:-1 tvg-name="Telecine Action SD"tvg-id="Tcaction.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Action
 http://uniplay.link:80/814365850/ZkSH7Tb/612
-#EXTINF:-1 tvg-name="TELECINE ACTION SD"tvg-id="Tcaction.br"tvg-logo="https://imgur.com/Xdl0FU1.png"group-title="Canais | Telecine",TELECINE ACTION SD
+#EXTINF:-1 tvg-name="TELECINE ACTION SD"tvg-id="Tcaction.br"tvg-logo="https://imgur.com/Xdl0FU1.png"group-title="Canais | Telecine",Telecine Action
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/551
-#EXTINF:-1 tvg-name="Telecine Action HD²"tvg-id="Tcaction.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Action HD²
+#EXTINF:-1 tvg-name="Telecine Action HD²"tvg-id="Tcaction.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Action
 http://uniplay.link:80/814365850/ZkSH7Tb/614
 #EXTINF:-1 tvg-name="Telecine Action HD [LEG ]"tvg-id="Tcaction.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Legendados",Telecine Action HD [LEG ]
 http://uniplay.link:80/814365850/ZkSH7Tb/118901
-#EXTINF:-1 tvg-name="TELECINE ACTION HD"tvg-id="Tcaction.br"tvg-logo="https://images2.imgbox.com/64/e8/GnaJaVwm_o.png"group-title="Canais | Telecine",TELECINE ACTION HD
+#EXTINF:-1 tvg-name="TELECINE ACTION HD"tvg-id="Tcaction.br"tvg-logo="https://images2.imgbox.com/64/e8/GnaJaVwm_o.png"group-title="Canais | Telecine",Telecine Action
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/77.m3u8
-#EXTINF:-1 tvg-name="Telecine Action HD"tvg-id="Tcaction.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Action HD
+#EXTINF:-1 tvg-name="Telecine Action HD"tvg-id="Tcaction.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Action
 http://uniplay.link:80/814365850/ZkSH7Tb/613
-#EXTINF:-1 tvg-name="TELECINE ACTION HD"tvg-id="Tcaction.br"tvg-logo="https://imgur.com/Xdl0FU1.png"group-title="Canais | Telecine",TELECINE ACTION HD
+#EXTINF:-1 tvg-name="TELECINE ACTION HD"tvg-id="Tcaction.br"tvg-logo="https://imgur.com/Xdl0FU1.png"group-title="Canais | Telecine",Telecine Action
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/77
-#EXTINF:-1 tvg-name="TELECINE ACTION H265"tvg-id="Tcaction.br"tvg-logo="https://images2.imgbox.com/64/e8/GnaJaVwm_o.png"group-title="Canais | Telecine",TELECINE ACTION H265
+#EXTINF:-1 tvg-name="TELECINE ACTION H265"tvg-id="Tcaction.br"tvg-logo="https://images2.imgbox.com/64/e8/GnaJaVwm_o.png"group-title="Canais | Telecine",Telecine Action
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/289.m3u8
-#EXTINF:-1 tvg-name="TELECINE ACTION H265"tvg-id="Tcaction.br"tvg-logo="https://imgur.com/Xdl0FU1.png"group-title="Canais | Telecine",TELECINE ACTION H265
+#EXTINF:-1 tvg-name="TELECINE ACTION H265"tvg-id="Tcaction.br"tvg-logo="https://imgur.com/Xdl0FU1.png"group-title="Canais | Telecine",Telecine Action
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/289
 #EXTINF:-1 tvg-name="Telecine Action FHD [LEG ]"tvg-id="Tcaction.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Legendados",Telecine Action FHD [LEG ]
 http://uniplay.link:80/814365850/ZkSH7Tb/118902
-#EXTINF:-1 tvg-name="TELECINE ACTION FHD"tvg-id="Tcaction.br"tvg-logo="https://images2.imgbox.com/64/e8/GnaJaVwm_o.png"group-title="Canais | Telecine",Telecine Action FHD
+#EXTINF:-1 tvg-name="TELECINE ACTION FHD"tvg-id="Tcaction.br"tvg-logo="https://images2.imgbox.com/64/e8/GnaJaVwm_o.png"group-title="Canais | Telecine",Telecine Action
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/787.m3u8
-#EXTINF:-1 tvg-name="Telecine Action FHD"tvg-id="Tcaction.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Action FHD
+#EXTINF:-1 tvg-name="Telecine Action FHD"tvg-id="Tcaction.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | Telecine",Telecine Action
 http://uniplay.link:80/814365850/ZkSH7Tb/615
-#EXTINF:-1 tvg-name="TELECINE ACTION FHD"tvg-id="Tcaction.br"tvg-logo="https://imgur.com/Xdl0FU1.png"group-title="Canais | Telecine",Telecine Action FHD
+#EXTINF:-1 tvg-name="TELECINE ACTION FHD"tvg-id="Tcaction.br"tvg-logo="https://imgur.com/Xdl0FU1.png"group-title="Canais | Telecine",Telecine Action
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/787
-#EXTINF:-1 tvg-name="Telecine Action 4K "tvg-id="Tcaction.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | 4K",Telecine Action 4K
+#EXTINF:-1 tvg-name="Telecine Action 4K "tvg-id="Tcaction.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/TELECINE.png"group-title="Canais | 4K",Telecine Action
 http://uniplay.link:80/814365850/ZkSH7Tb/284597
 #EXTINF:-1 tvg-name="TCM SD"tvg-id="Tcm.br"tvg-logo="https://images2.imgbox.com/76/53/pJquJCtz_o.png"group-title="Canais | Filmes & Series",TCM SD
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/550.m3u8
@@ -1107,47 +1029,47 @@ http://uniplay.link:80/814365850/ZkSH7Tb/118707
 http://uniplay.link:80/814365850/ZkSH7Tb/118704
 #EXTINF:-1 tvg-name="SporTV  2 FHD²"tvg-id="Sportv2.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png"group-title="Canais | SporTV",SporTV  2 FHD²
 http://uniplay.link:80/814365850/ZkSH7Tb/118703
-#EXTINF:-1 tvg-name="Space UHD"tvg-id="Space.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png"group-title="Canais | Filmes & Series",Space UHD
+#EXTINF:-1 tvg-name="Space UHD"tvg-id="Space.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png"group-title="Canais | Filmes & Series",Space HD
 http://uniplay.link:80/814365850/ZkSH7Tb/21272
-#EXTINF:-1 tvg-name="Space SD"tvg-id="Space.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png"group-title="Canais | Filmes & Series",Space SD
+#EXTINF:-1 tvg-name="Space SD"tvg-id="Space.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png"group-title="Canais | Filmes & Series",Space HD
 http://uniplay.link:80/814365850/ZkSH7Tb/704
-#EXTINF:-1 tvg-name="SPACE SD"tvg-id="Space.br"tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png"group-title="Canais | Filmes & Series",SPACE SD
+#EXTINF:-1 tvg-name="SPACE SD"tvg-id="Space.br"tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png"group-title="Canais | Filmes & Series",Space HD
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/543.m3u8
-#EXTINF:-1 tvg-name="SPACE SD"tvg-id="Space.br"tvg-logo="https://i.imgur.com/rLuaRDb.png"group-title="Canais | Filmes & Series",SPACE SD
+#EXTINF:-1 tvg-name="SPACE SD"tvg-id="Space.br"tvg-logo="https://i.imgur.com/rLuaRDb.png"group-title="Canais | Filmes & Series",Space HD
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/543
-#EXTINF:-1 tvg-name="SPACE SD*"tvg-id="Space.br"tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png"group-title="Canais | Filmes & Series",SPACE SD
+#EXTINF:-1 tvg-name="SPACE SD*"tvg-id="Space.br"tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png"group-title="Canais | Filmes & Series",Space HD
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/543.m3u8
-#EXTINF:-1 tvg-name="Space HD²"tvg-id="Space.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png"group-title="Canais | Filmes & Series",Space HD²
+#EXTINF:-1 tvg-name="Space HD²"tvg-id="Space.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png"group-title="Canais | Filmes & Series",Space HD
 http://uniplay.link:80/814365850/ZkSH7Tb/706
-#EXTINF:-1 tvg-name="Space HD [LEG ]"tvg-id="Space.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png"group-title="Canais | Legendados",Space HD [LEG ]
+#EXTINF:-1 tvg-name="Space HD [LEG ]"tvg-id="Space.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png"group-title="Canais | Legendados",Space HD
 http://uniplay.link:80/814365850/ZkSH7Tb/118921
 #EXTINF:-1 tvg-name="Space HD"tvg-id="Space.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png"group-title="Canais | Filmes & Series",Space HD
 http://uniplay.link:80/814365850/ZkSH7Tb/705
-#EXTINF:-1 tvg-name="SPACE HD"tvg-id="Space.br"tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png"group-title="Canais | Filmes & Series",SPACE HD
+#EXTINF:-1 tvg-name="SPACE HD"tvg-id="Space.br"tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png"group-title="Canais | Filmes & Series",Space HD
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/70.m3u8
-#EXTINF:-1 tvg-name="SPACE HD"tvg-id="Space.br"tvg-logo="https://i.imgur.com/rLuaRDb.png"group-title="Canais | Filmes & Series",SPACE HD
+#EXTINF:-1 tvg-name="SPACE HD"tvg-id="Space.br"tvg-logo="https://i.imgur.com/rLuaRDb.png"group-title="Canais | Filmes & Series",Space HD
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/70
-#EXTINF:-1 tvg-name="SPACE HD*"tvg-id="Space.br"tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png"group-title="Canais | Filmes & Series",SPACE HD
+#EXTINF:-1 tvg-name="SPACE HD*"tvg-id="Space.br"tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png"group-title="Canais | Filmes & Series",Space HD
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/70.m3u8
-#EXTINF:-1 tvg-name="SPACE FHD H265"tvg-id="Space.br"tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png"group-title="Canais | Filmes & Series",SPACE FHD H265
+#EXTINF:-1 tvg-name="SPACE FHD H265"tvg-id="Space.br"tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png"group-title="Canais | Filmes & Series",Space HD
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/282.m3u8
-#EXTINF:-1 tvg-name="SPACE FHD H265"tvg-id="Space.br"tvg-logo="https://i.imgur.com/rLuaRDb.png"group-title="Canais | Filmes & Series",SPACE FHD H265
+#EXTINF:-1 tvg-name="SPACE FHD H265"tvg-id="Space.br"tvg-logo="https://i.imgur.com/rLuaRDb.png"group-title="Canais | Filmes & Series",Space HD
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/282
-#EXTINF:-1 tvg-name="SPACE FHD H265*"tvg-id="Space.br"tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png"group-title="Canais | Filmes & Series",SPACE FHD H265
+#EXTINF:-1 tvg-name="SPACE FHD H265*"tvg-id="Space.br"tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png"group-title="Canais | Filmes & Series",Space HD
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/282.m3u8
 #EXTINF:-1 tvg-name="Space FHD [LEG ]"tvg-id=""tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png"group-title="Canais | Legendados",Space FHD [LEG ]
 http://uniplay.link:80/814365850/ZkSH7Tb/118922
-#EXTINF:-1 tvg-name="Space FHD"tvg-id="Space.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png"group-title="Canais | Filmes & Series",Space FHD
+#EXTINF:-1 tvg-name="Space FHD"tvg-id="Space.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png"group-title="Canais | Filmes & Series",Space HD
 http://uniplay.link:80/814365850/ZkSH7Tb/707
-#EXTINF:-1 tvg-name="SPACE FHD"tvg-id="Space.br"tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png"group-title="Canais | Filmes & Series",SPACE FHD
+#EXTINF:-1 tvg-name="SPACE FHD"tvg-id="Space.br"tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png"group-title="Canais | Filmes & Series",Space HD
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/846.m3u8
-#EXTINF:-1 tvg-name="SPACE FHD"tvg-id="Space.br"tvg-logo="https://i.imgur.com/rLuaRDb.png"group-title="Canais | Filmes & Series",SPACE FHD
+#EXTINF:-1 tvg-name="SPACE FHD"tvg-id="Space.br"tvg-logo="https://i.imgur.com/rLuaRDb.png"group-title="Canais | Filmes & Series",Space HD
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/846
-#EXTINF:-1 tvg-name="SPACE FHD*"tvg-id="Space.br"tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png"group-title="Canais | Filmes & Series",SPACE FHD
+#EXTINF:-1 tvg-name="SPACE FHD*"tvg-id="Space.br"tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png"group-title="Canais | Filmes & Series",Space HD
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/846.m3u8
-#EXTINF:-1 tvg-name="SPACE 4K"tvg-id="Space.br"tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png"group-title="Canais | 4K",SPACE 4K
+#EXTINF:-1 tvg-name="SPACE 4K"tvg-id="Space.br"tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png"group-title="Canais | 4K",Space HD
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/80568.m3u8
-#EXTINF:-1 tvg-name="SPACE 4K"tvg-id="Space.br"tvg-logo="https://i.imgur.com/rLuaRDb.png"group-title="Canais | 4K",SPACE 4K
+#EXTINF:-1 tvg-name="SPACE 4K"tvg-id="Space.br"tvg-logo="https://i.imgur.com/rLuaRDb.png"group-title="Canais | 4K",Space HD
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/80568
 #EXTINF:-1 tvg-name="SONY MOVIES SD"tvg-id="sony.movies.us"tvg-logo="https://i.imgur.com/0VtHEaj.png"group-title="Canais | Filmes & Series",SONY MOVIES SD
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/93697
@@ -1169,30 +1091,20 @@ http://uniplay.link:80/814365850/ZkSH7Tb/271515
 http://uniplay.link:80/814365850/ZkSH7Tb/271514
 #EXTINF:-1 tvg-name="Sex Prive FHD"tvg-id=""tvg-logo=""group-title="Canais | Adultos +18",Sex Prive FHD
 http://uniplay.link:80/814365850/ZkSH7Tb/271513
-#EXTINF:-1 tvg-name="SBT TV ALTEROSA SD"tvg-id="Sbtminas.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png"group-title="Canais | SBT",SBT TV ALTEROSA SD
+#EXTINF:-1 tvg-name="SBT TV ALTEROSA SD"tvg-id="Sbtminas.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png"group-title="Canais | SBT",SBT TV ALTEROSA
 http://uniplay.link:80/814365850/ZkSH7Tb/244186
-#EXTINF:-1 tvg-name="SBT TV ALTEROSA MG HD"tvg-id="tv.alterosa.br"tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png"group-title="Canais | SBT",SBT TV ALTEROSA MG HD
+#EXTINF:-1 tvg-name="SBT TV ALTEROSA MG HD"tvg-id="tv.alterosa.br"tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png"group-title="Canais | SBT",SBT TV ALTEROSA
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/896.m3u8
-#EXTINF:-1 tvg-name="SBT TV ALTEROSA MG HD"tvg-id="tv.alterosa.br"tvg-logo="https://i.imgur.com/xLcleQG.png"group-title="Canais | SBT",SBT TV ALTEROSA MG HD
+#EXTINF:-1 tvg-name="SBT TV ALTEROSA MG HD"tvg-id="tv.alterosa.br"tvg-logo="https://i.imgur.com/xLcleQG.png"group-title="Canais | SBT",SBT TV ALTEROSA
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/896
-#EXTINF:-1 tvg-name="SBT TV ALTEROSA MG FHD"tvg-id="tv.alterosa.br"tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png"group-title="Canais | SBT",SBT TV ALTEROSA MG FHD
+#EXTINF:-1 tvg-name="SBT TV ALTEROSA MG FHD"tvg-id="tv.alterosa.br"tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png"group-title="Canais | SBT",SBT TV ALTEROSA
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/897.m3u8
-#EXTINF:-1 tvg-name="SBT TV ALTEROSA MG FHD"tvg-id="tv.alterosa.br"tvg-logo="https://i.imgur.com/xLcleQG.png"group-title="Canais | SBT",SBT TV ALTEROSA MG FHD
+#EXTINF:-1 tvg-name="SBT TV ALTEROSA MG FHD"tvg-id="tv.alterosa.br"tvg-logo="https://i.imgur.com/xLcleQG.png"group-title="Canais | SBT",SBT TV ALTEROSA
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/897
-#EXTINF:-1 tvg-name="SBT TV ALTEROSA HD"tvg-id="Sbtminas.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png"group-title="Canais | SBT",SBT TV ALTEROSA HD
+#EXTINF:-1 tvg-name="SBT TV ALTEROSA HD"tvg-id="Sbtminas.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png"group-title="Canais | SBT",SBT TV ALTEROSA
 http://uniplay.link:80/814365850/ZkSH7Tb/244185
-#EXTINF:-1 tvg-name="SBT TV ALTEROSA FHD"tvg-id="Sbtminas.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png"group-title="Canais | SBT",SBT TV ALTEROSA FHD
+#EXTINF:-1 tvg-name="SBT TV ALTEROSA FHD"tvg-id="Sbtminas.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/SBT.png"group-title="Canais | SBT",SBT TV ALTEROSA
 http://uniplay.link:80/814365850/ZkSH7Tb/244184
-#EXTINF:-1 tvg-name="SBT 4K"tvg-id="Sbt.br"tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png"group-title="Canais | 4K",SBT 4K
-http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/80567.m3u8
-#EXTINF:-1 tvg-name="SBT 4K"tvg-id="Sbt.br"tvg-logo="https://i.imgur.com/xLcleQG.png"group-title="Canais | 4K",SBT 4K
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/80567
-#EXTINF:-1 tvg-name="Sabor & Arte HD"tvg-id="SaboreArte.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/SABOR&ARTE.png"group-title="Canais |  Variedades ",Sabor & Arte HD
-http://uniplay.link:80/814365850/ZkSH7Tb/162354
-#EXTINF:-1 tvg-name="Sabor & Arte FHD"tvg-id="SaboreArte.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/SABOR&ARTE.png"group-title="Canais |  Variedades ",Sabor & Arte FHD
-http://uniplay.link:80/814365850/ZkSH7Tb/162353
-#EXTINF:-1 tvg-name="RIT TV SD"tvg-id="Rit.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/RIT.png"group-title="Canais |  Religiosos",RIT TV SD
-http://uniplay.link:80/814365850/ZkSH7Tb/199
 #EXTINF:-1 tvg-name="Relaxar e Dormir 24h"tvg-id=""tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANAL-24-HORAS.png"group-title="Canais | Natureza - Relax",Relaxar e Dormir 24h
 http://uniplay.link:80/814365850/ZkSH7Tb/217331
 #EXTINF:-1 tvg-name="Relaxar com natureza 4  24h"tvg-id=""tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANAL-24-HORAS.png"group-title="Canais | Natureza - Relax",Relaxar com natureza 4  24h
@@ -1361,240 +1273,230 @@ http://uniplay.link:80/814365850/ZkSH7Tb/2524
 http://uniplay.link:80/814365850/ZkSH7Tb/2523
 #EXTINF:-1 tvg-name="Prime Box Brazil FHD"tvg-id="Primeboxbrazil.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PRIMEBOXBRAZIL.png"group-title="Canais |  Variedades ",Prime Box Brazil FHD
 http://uniplay.link:80/814365850/ZkSH7Tb/2525
-#EXTINF:-1 tvg-name="Premiere Clubes UHD"tvg-id="Premierefchd.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere Clubes UHD
+#EXTINF:-1 tvg-name="Premiere Clubes UHD"tvg-id="Premierefchd.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere Clubes
 http://uniplay.link:80/814365850/ZkSH7Tb/21269
-#EXTINF:-1 tvg-name="PREMIERE CLUBES SD*"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",PREMIERE CLUBES SD*
+#EXTINF:-1 tvg-name="PREMIERE CLUBES SD*"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",Premiere Clubes
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/88562.m3u8
-#EXTINF:-1 tvg-name="PREMIERE CLUBES SD*"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",PREMIERE CLUBES SD*
+#EXTINF:-1 tvg-name="PREMIERE CLUBES SD*"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",Premiere Clubes
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/88562
-#EXTINF:-1 tvg-name="PREMIERE CLUBES SD"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",PREMIERE CLUBES SD
+#EXTINF:-1 tvg-name="PREMIERE CLUBES SD"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",Premiere Clubes
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/531.m3u8
-#EXTINF:-1 tvg-name="Premiere Clubes SD"tvg-id="Premierefchd.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere Clubes SD
+#EXTINF:-1 tvg-name="Premiere Clubes SD"tvg-id="Premierefchd.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere Clubes
 http://uniplay.link:80/814365850/ZkSH7Tb/491
-#EXTINF:-1 tvg-name="PREMIERE CLUBES SD"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",PREMIERE CLUBES SD
+#EXTINF:-1 tvg-name="PREMIERE CLUBES SD"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",Premiere Clubes
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/531
-#EXTINF:-1 tvg-name="Premiere Clubes HD²"tvg-id="Premierefchd.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere Clubes HD²
+#EXTINF:-1 tvg-name="Premiere Clubes HD²"tvg-id="Premierefchd.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere Clubes
 http://uniplay.link:80/814365850/ZkSH7Tb/493
-#EXTINF:-1 tvg-name="PREMIERE CLUBES HD"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",PREMIERE CLUBES HD
+#EXTINF:-1 tvg-name="PREMIERE CLUBES HD"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",Premiere Clubes
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/67.m3u8
-#EXTINF:-1 tvg-name="Premiere Clubes HD"tvg-id="Premierefchd.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere Clubes HD
+#EXTINF:-1 tvg-name="Premiere Clubes HD"tvg-id="Premierefchd.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere Clubes
 http://uniplay.link:80/814365850/ZkSH7Tb/492
-#EXTINF:-1 tvg-name="PREMIERE CLUBES HD"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",PREMIERE CLUBES HD
+#EXTINF:-1 tvg-name="PREMIERE CLUBES HD"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",Premiere Clubes
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/67
-#EXTINF:-1 tvg-name="PREMIERE CLUBES H265*"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",PREMIERE CLUBES H265*
+#EXTINF:-1 tvg-name="PREMIERE CLUBES H265*"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",Premiere Clubes
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/88561.m3u8
-#EXTINF:-1 tvg-name="PREMIERE CLUBES H265*"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",PREMIERE CLUBES H265*
+#EXTINF:-1 tvg-name="PREMIERE CLUBES H265*"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",Premiere Clubes
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/88561
-#EXTINF:-1 tvg-name="Premiere Clubes FHD²"tvg-id="Premierefchd.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere Clubes FHD²
+#EXTINF:-1 tvg-name="Premiere Clubes FHD²"tvg-id="Premierefchd.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere Clubes
 http://uniplay.link:80/814365850/ZkSH7Tb/52089
-#EXTINF:-1 tvg-name="PREMIERE CLUBES FHD*"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",PREMIERE CLUBES FHD*
+#EXTINF:-1 tvg-name="PREMIERE CLUBES FHD*"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",Premiere Clubes
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/88559.m3u8
-#EXTINF:-1 tvg-name="PREMIERE CLUBES FHD*"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",PREMIERE CLUBES FHD*
+#EXTINF:-1 tvg-name="PREMIERE CLUBES FHD*"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",Premiere Clubes
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/88559
-#EXTINF:-1 tvg-name="PREMIERE CLUBES FHD "tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",PREMIERE CLUBES FHD
+#EXTINF:-1 tvg-name="PREMIERE CLUBES FHD "tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",Premiere Clubes
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/775.m3u8
-#EXTINF:-1 tvg-name="Premiere Clubes FHD"tvg-id="Premierefchd.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere Clubes FHD
+#EXTINF:-1 tvg-name="Premiere Clubes FHD"tvg-id="Premierefchd.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere Clubes
 http://uniplay.link:80/814365850/ZkSH7Tb/494
-#EXTINF:-1 tvg-name="PREMIERE CLUBES FHD "tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",PREMIERE CLUBES FHD
+#EXTINF:-1 tvg-name="PREMIERE CLUBES FHD "tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",Premiere Clubes
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/775
-#EXTINF:-1 tvg-name="PREMIERE CLUBES 4K"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | 4K",PREMIERE CLUBES 4K
+#EXTINF:-1 tvg-name="PREMIERE CLUBES 4K"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | 4K",Premiere Clubes
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/80553.m3u8
-#EXTINF:-1 tvg-name="PREMIERE CLUBES 4K"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | 4K",PREMIERE CLUBES 4K
+#EXTINF:-1 tvg-name="PREMIERE CLUBES 4K"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | 4K",Premiere Clubes
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/80553
-#EXTINF:-1 tvg-name="Premiere Clubes 4K "tvg-id="Premierefchd.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | 4K",Premiere Clubes 4K
+#EXTINF:-1 tvg-name="Premiere Clubes 4K "tvg-id="Premierefchd.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | 4K",Premiere Clubes
 http://uniplay.link:80/814365850/ZkSH7Tb/284578
-#EXTINF:-1 tvg-name="PREMIERE CLUBES  H265"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",PREMIERE CLUBES  H265
+#EXTINF:-1 tvg-name="PREMIERE CLUBES  H265"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",Premiere Clubes
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/273.m3u8
-#EXTINF:-1 tvg-name="PREMIERE CLUBES  H265"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",PREMIERE CLUBES  H265
+#EXTINF:-1 tvg-name="PREMIERE CLUBES  H265"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",Premiere Clubes
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/273
 #EXTINF:-1 tvg-name="Premiere 8 SD"tvg-id="Premiere8.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 8 SD
 http://uniplay.link:80/814365850/ZkSH7Tb/526
-#EXTINF:-1 tvg-name="Premiere 7 UHD"tvg-id="Premiere7.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 7 UHD
+#EXTINF:-1 tvg-name="Premiere 7 UHD"tvg-id="Premiere7.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 7
 http://uniplay.link:80/814365850/ZkSH7Tb/21329
-#EXTINF:-1 tvg-name="PREMIERE 7 SD"tvg-id="Premiere7.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 7 SD
+#EXTINF:-1 tvg-name="PREMIERE 7 SD"tvg-id="Premiere7.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 7
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/528.m3u8
-#EXTINF:-1 tvg-name="Premiere 7 SD"tvg-id="Premiere7.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 7 SD
+#EXTINF:-1 tvg-name="Premiere 7 SD"tvg-id="Premiere7.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 7
 http://uniplay.link:80/814365850/ZkSH7Tb/521
-#EXTINF:-1 tvg-name="PREMIERE 7 SD"tvg-id="Premiere7.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 7 SD
+#EXTINF:-1 tvg-name="PREMIERE 7 SD"tvg-id="Premiere7.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 7
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/528
-#EXTINF:-1 tvg-name="Premiere 7 HD²"tvg-id="Premiere7.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 7 HD²
+#EXTINF:-1 tvg-name="Premiere 7 HD²"tvg-id="Premiere7.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 7
 http://uniplay.link:80/814365850/ZkSH7Tb/523
-#EXTINF:-1 tvg-name="PREMIERE 7 HD"tvg-id="Premiere7.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 7 HD
+#EXTINF:-1 tvg-name="PREMIERE 7 HD"tvg-id="Premiere7.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 7
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/66.m3u8
-#EXTINF:-1 tvg-name="Premiere 7 HD"tvg-id="Premiere7.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 7 HD
+#EXTINF:-1 tvg-name="Premiere 7 HD"tvg-id="Premiere7.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 7
 http://uniplay.link:80/814365850/ZkSH7Tb/522
-#EXTINF:-1 tvg-name="PREMIERE 7 HD"tvg-id="Premiere7.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 7 HD
+#EXTINF:-1 tvg-name="PREMIERE 7 HD"tvg-id="Premiere7.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 7
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/66
-#EXTINF:-1 tvg-name="PREMIERE 7 FHD H265"tvg-id="Premiere7.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 7 FHD H265
+#EXTINF:-1 tvg-name="PREMIERE 7 FHD H265"tvg-id="Premiere7.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 7
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/279.m3u8
-#EXTINF:-1 tvg-name="PREMIERE 7 FHD H265"tvg-id="Premiere7.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 7 FHD H265
+#EXTINF:-1 tvg-name="PREMIERE 7 FHD H265"tvg-id="Premiere7.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 7
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/279
-#EXTINF:-1 tvg-name="PREMIERE 7 FHD"tvg-id="Premiere7.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 7 FHD
+#EXTINF:-1 tvg-name="PREMIERE 7 FHD"tvg-id="Premiere7.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 7
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/810.m3u8
-#EXTINF:-1 tvg-name="Premiere 7 FHD"tvg-id="Premiere7.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 7 FHD
+#EXTINF:-1 tvg-name="Premiere 7 FHD"tvg-id="Premiere7.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 7
 http://uniplay.link:80/814365850/ZkSH7Tb/524
-#EXTINF:-1 tvg-name="PREMIERE 7 FHD"tvg-id="Premiere7.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 7 FHD
+#EXTINF:-1 tvg-name="PREMIERE 7 FHD"tvg-id="Premiere7.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 7
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/810
-#EXTINF:-1 tvg-name="Premiere 6 UHD"tvg-id="Premiere6.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 6 UHD
+#EXTINF:-1 tvg-name="Premiere 6 UHD"tvg-id="Premiere6.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 6
 http://uniplay.link:80/814365850/ZkSH7Tb/21328
-#EXTINF:-1 tvg-name="PREMIERE 6 SD"tvg-id="Premiere6.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 6 SD
+#EXTINF:-1 tvg-name="PREMIERE 6 SD"tvg-id="Premiere6.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 6
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/527.m3u8
-#EXTINF:-1 tvg-name="Premiere 6 SD"tvg-id="Premiere6.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 6 SD
+#EXTINF:-1 tvg-name="Premiere 6 SD"tvg-id="Premiere6.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 6
 http://uniplay.link:80/814365850/ZkSH7Tb/516
-#EXTINF:-1 tvg-name="PREMIERE 6 SD"tvg-id="Premiere6.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 6 SD
+#EXTINF:-1 tvg-name="PREMIERE 6 SD"tvg-id="Premiere6.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 6
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/527
-#EXTINF:-1 tvg-name="Premiere 6 HD²"tvg-id="Premiere6.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 6 HD²
+#EXTINF:-1 tvg-name="Premiere 6 HD²"tvg-id="Premiere6.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 6
 http://uniplay.link:80/814365850/ZkSH7Tb/518
-#EXTINF:-1 tvg-name="PREMIERE 6 HD"tvg-id="Premiere6.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 6 HD
+#EXTINF:-1 tvg-name="PREMIERE 6 HD"tvg-id="Premiere6.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 6
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/65.m3u8
-#EXTINF:-1 tvg-name="Premiere 6 HD"tvg-id="Premiere6.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 6 HD
+#EXTINF:-1 tvg-name="Premiere 6 HD"tvg-id="Premiere6.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 6
 http://uniplay.link:80/814365850/ZkSH7Tb/517
-#EXTINF:-1 tvg-name="PREMIERE 6 HD"tvg-id="Premiere6.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 6 HD
+#EXTINF:-1 tvg-name="PREMIERE 6 HD"tvg-id="Premiere6.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 6
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/65
-#EXTINF:-1 tvg-name="PREMIERE 6 FHD H265"tvg-id="Premiere6.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 6 FHD H265
+#EXTINF:-1 tvg-name="PREMIERE 6 FHD H265"tvg-id="Premiere6.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 6
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/278.m3u8
-#EXTINF:-1 tvg-name="PREMIERE 6 FHD H265"tvg-id="Premiere6.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 6 FHD H265
+#EXTINF:-1 tvg-name="PREMIERE 6 FHD H265"tvg-id="Premiere6.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 6
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/278
-#EXTINF:-1 tvg-name="PREMIERE 6 FHD"tvg-id="Premiere6.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 6 FHD
+#EXTINF:-1 tvg-name="PREMIERE 6 FHD"tvg-id="Premiere6.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 6
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/811.m3u8
-#EXTINF:-1 tvg-name="Premiere 6 FHD"tvg-id="Premiere6.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 6 FHD
+#EXTINF:-1 tvg-name="Premiere 6 FHD"tvg-id="Premiere6.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 6
 http://uniplay.link:80/814365850/ZkSH7Tb/519
-#EXTINF:-1 tvg-name="PREMIERE 6 FHD"tvg-id="Premiere6.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 6 FHD
+#EXTINF:-1 tvg-name="PREMIERE 6 FHD"tvg-id="Premiere6.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 6
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/811
-#EXTINF:-1 tvg-name="Premiere 5 UHD"tvg-id="Premiere5.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 5 UHD
+#EXTINF:-1 tvg-name="Premiere 5 UHD"tvg-id="Premiere5.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 5
 http://uniplay.link:80/814365850/ZkSH7Tb/21268
-#EXTINF:-1 tvg-name="PREMIERE 5 SD"tvg-id="Premiere5.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 5 SD
+#EXTINF:-1 tvg-name="PREMIERE 5 SD"tvg-id="Premiere5.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 5
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/526.m3u8
-#EXTINF:-1 tvg-name="Premiere 5 SD"tvg-id="Premiere5.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 5 SD
+#EXTINF:-1 tvg-name="Premiere 5 SD"tvg-id="Premiere5.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 5
 http://uniplay.link:80/814365850/ZkSH7Tb/511
-#EXTINF:-1 tvg-name="PREMIERE 5 SD"tvg-id="Premiere5.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 5 SD
+#EXTINF:-1 tvg-name="PREMIERE 5 SD"tvg-id="Premiere5.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 5
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/526
-#EXTINF:-1 tvg-name="Premiere 5 HD²"tvg-id="Premiere5.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 5 HD²
+#EXTINF:-1 tvg-name="Premiere 5 HD²"tvg-id="Premiere5.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 5
 http://uniplay.link:80/814365850/ZkSH7Tb/513
-#EXTINF:-1 tvg-name="PREMIERE 5 HD"tvg-id="Premiere5.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 5 HD
+#EXTINF:-1 tvg-name="PREMIERE 5 HD"tvg-id="Premiere5.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 5
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/64.m3u8
-#EXTINF:-1 tvg-name="Premiere 5 HD"tvg-id="Premiere5.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 5 HD
+#EXTINF:-1 tvg-name="Premiere 5 HD"tvg-id="Premiere5.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 5
 http://uniplay.link:80/814365850/ZkSH7Tb/512
-#EXTINF:-1 tvg-name="PREMIERE 5 HD"tvg-id="Premiere5.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 5 HD
+#EXTINF:-1 tvg-name="PREMIERE 5 HD"tvg-id="Premiere5.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 5
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/64
-#EXTINF:-1 tvg-name="PREMIERE 5 FHD H265"tvg-id="Premiere5.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 5 FHD H265
+#EXTINF:-1 tvg-name="PREMIERE 5 FHD H265"tvg-id="Premiere5.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 5
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/277.m3u8
-#EXTINF:-1 tvg-name="PREMIERE 5 FHD H265"tvg-id="Premiere5.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 5 FHD H265
+#EXTINF:-1 tvg-name="PREMIERE 5 FHD H265"tvg-id="Premiere5.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 5
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/277
-#EXTINF:-1 tvg-name="PREMIERE 5 FHD "tvg-id="Premiere5.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 5 FHD
+#EXTINF:-1 tvg-name="PREMIERE 5 FHD "tvg-id="Premiere5.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 5
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/812.m3u8
-#EXTINF:-1 tvg-name="Premiere 5 FHD"tvg-id="Premiere5.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 5 FHD
+#EXTINF:-1 tvg-name="Premiere 5 FHD"tvg-id="Premiere5.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 5
 http://uniplay.link:80/814365850/ZkSH7Tb/514
-#EXTINF:-1 tvg-name="PREMIERE 5 FHD "tvg-id="Premiere5.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 5 FHD
+#EXTINF:-1 tvg-name="PREMIERE 5 FHD "tvg-id="Premiere5.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 5
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/812
-#EXTINF:-1 tvg-name="Premiere 4 UHD"tvg-id="Premiere4.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 4 UHD
+#EXTINF:-1 tvg-name="Premiere 4 UHD"tvg-id="Premiere4.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 4
 http://uniplay.link:80/814365850/ZkSH7Tb/21327
-#EXTINF:-1 tvg-name="PREMIERE 4 SD"tvg-id="Premiere4.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 4 SD
+#EXTINF:-1 tvg-name="PREMIERE 4 SD"tvg-id="Premiere4.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 4
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/525.m3u8
-#EXTINF:-1 tvg-name="Premiere 4 SD"tvg-id="Premiere4.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 4 SD
+#EXTINF:-1 tvg-name="Premiere 4 SD"tvg-id="Premiere4.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 4
 http://uniplay.link:80/814365850/ZkSH7Tb/506
-#EXTINF:-1 tvg-name="PREMIERE 4 SD"tvg-id="Premiere4.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 4 SD
+#EXTINF:-1 tvg-name="PREMIERE 4 SD"tvg-id="Premiere4.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 4
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/525
-#EXTINF:-1 tvg-name="Premiere 4 HD²"tvg-id="Premiere4.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 4 HD²
+#EXTINF:-1 tvg-name="Premiere 4 HD²"tvg-id="Premiere4.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 4
 http://uniplay.link:80/814365850/ZkSH7Tb/508
-#EXTINF:-1 tvg-name="PREMIERE 4 HD"tvg-id="Premiere4.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 4 HD
+#EXTINF:-1 tvg-name="PREMIERE 4 HD"tvg-id="Premiere4.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 4
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/63.m3u8
-#EXTINF:-1 tvg-name="Premiere 4 HD"tvg-id="Premiere4.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 4 HD
+#EXTINF:-1 tvg-name="Premiere 4 HD"tvg-id="Premiere4.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 4
 http://uniplay.link:80/814365850/ZkSH7Tb/507
-#EXTINF:-1 tvg-name="PREMIERE 4 HD"tvg-id="Premiere4.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 4 HD
+#EXTINF:-1 tvg-name="PREMIERE 4 HD"tvg-id="Premiere4.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 4
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/63
-#EXTINF:-1 tvg-name="PREMIERE 4 FHD H265"tvg-id="Premiere4.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 4 FHD H265
+#EXTINF:-1 tvg-name="PREMIERE 4 FHD H265"tvg-id="Premiere4.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 4
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/276.m3u8
-#EXTINF:-1 tvg-name="PREMIERE 4 FHD H265"tvg-id="Premiere4.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 4 FHD H265
+#EXTINF:-1 tvg-name="PREMIERE 4 FHD H265"tvg-id="Premiere4.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 4
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/276
-#EXTINF:-1 tvg-name="PREMIERE 4 FHD"tvg-id="Premiere4.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 4 FHD
+#EXTINF:-1 tvg-name="PREMIERE 4 FHD"tvg-id="Premiere4.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 4
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/813.m3u8
-#EXTINF:-1 tvg-name="Premiere 4 FHD"tvg-id="Premiere4.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 4 FHD
+#EXTINF:-1 tvg-name="Premiere 4 FHD"tvg-id="Premiere4.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 4
 http://uniplay.link:80/814365850/ZkSH7Tb/509
-#EXTINF:-1 tvg-name="PREMIERE 4 FHD"tvg-id="Premiere4.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 4 FHD
+#EXTINF:-1 tvg-name="PREMIERE 4 FHD"tvg-id="Premiere4.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 4
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/813
-#EXTINF:-1 tvg-name="Premiere 3 UHD"tvg-id="Premiere3.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 3 UHD
+#EXTINF:-1 tvg-name="Premiere 3 UHD"tvg-id="Premiere3.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 3
 http://uniplay.link:80/814365850/ZkSH7Tb/21267
-#EXTINF:-1 tvg-name="PREMIERE 3 SD"tvg-id="Premiere3.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 3 SD
+#EXTINF:-1 tvg-name="PREMIERE 3 SD"tvg-id="Premiere3.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 3
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/524.m3u8
-#EXTINF:-1 tvg-name="Premiere 3 SD"tvg-id="Premiere3.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 3 SD
+#EXTINF:-1 tvg-name="Premiere 3 SD"tvg-id="Premiere3.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 3
 http://uniplay.link:80/814365850/ZkSH7Tb/501
-#EXTINF:-1 tvg-name="PREMIERE 3 SD"tvg-id="Premiere3.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 3 SD
+#EXTINF:-1 tvg-name="PREMIERE 3 SD"tvg-id="Premiere3.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 3
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/524
-#EXTINF:-1 tvg-name="Premiere 3 HD²"tvg-id="Premiere3.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 3 HD²
+#EXTINF:-1 tvg-name="Premiere 3 HD²"tvg-id="Premiere3.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 3
 http://uniplay.link:80/814365850/ZkSH7Tb/503
-#EXTINF:-1 tvg-name="PREMIERE 3 HD"tvg-id="Premiere3.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 3 HD
+#EXTINF:-1 tvg-name="PREMIERE 3 HD"tvg-id="Premiere3.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 3
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/62.m3u8
-#EXTINF:-1 tvg-name="Premiere 3 HD"tvg-id="Premiere3.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 3 HD
+#EXTINF:-1 tvg-name="Premiere 3 HD"tvg-id="Premiere3.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 3
 http://uniplay.link:80/814365850/ZkSH7Tb/502
-#EXTINF:-1 tvg-name="PREMIERE 3 HD"tvg-id="Premiere3.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 3 HD
+#EXTINF:-1 tvg-name="PREMIERE 3 HD"tvg-id="Premiere3.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 3
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/62
-#EXTINF:-1 tvg-name="PREMIERE 3 FHD H265"tvg-id="Premiere3.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 3 FHD H265
+#EXTINF:-1 tvg-name="PREMIERE 3 FHD H265"tvg-id="Premiere3.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 3
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/275.m3u8
-#EXTINF:-1 tvg-name="PREMIERE 3 FHD H265"tvg-id="Premiere3.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 3 FHD H265
+#EXTINF:-1 tvg-name="PREMIERE 3 FHD H265"tvg-id="Premiere3.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 3
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/275
-#EXTINF:-1 tvg-name="PREMIERE 3 FHD"tvg-id="Premiere3.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 3 FHD
+#EXTINF:-1 tvg-name="PREMIERE 3 FHD"tvg-id="Premiere3.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 3
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/814.m3u8
-#EXTINF:-1 tvg-name="Premiere 3 FHD"tvg-id="Premiere3.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 3 FHD
+#EXTINF:-1 tvg-name="Premiere 3 FHD"tvg-id="Premiere3.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 3
 http://uniplay.link:80/814365850/ZkSH7Tb/504
-#EXTINF:-1 tvg-name="PREMIERE 3 FHD"tvg-id="Premiere3.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 3 FHD
+#EXTINF:-1 tvg-name="PREMIERE 3 FHD"tvg-id="Premiere3.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 3
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/814
-#EXTINF:-1 tvg-name="Premiere 2 UHD"tvg-id="Premiere2.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 2 UHD
+#EXTINF:-1 tvg-name="Premiere 2 UHD"tvg-id="Premiere2.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 2
 http://uniplay.link:80/814365850/ZkSH7Tb/21266
-#EXTINF:-1 tvg-name="PREMIERE 2 SD*"tvg-id="Premiere2.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 2 SD*
+#EXTINF:-1 tvg-name="PREMIERE 2 SD*"tvg-id="Premiere2.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 2
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/88566.m3u8
-#EXTINF:-1 tvg-name="PREMIERE 2 SD*"tvg-id="Premiere2.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 2 SD*
+#EXTINF:-1 tvg-name="PREMIERE 2 SD*"tvg-id="Premiere2.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 2
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/88566
-#EXTINF:-1 tvg-name="PREMIERE 2 SD"tvg-id="Premiere2.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 2 SD
+#EXTINF:-1 tvg-name="PREMIERE 2 SD"tvg-id="Premiere2.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 2
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/523.m3u8
-#EXTINF:-1 tvg-name="Premiere 2 SD"tvg-id="Premiere2.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 2 SD
+#EXTINF:-1 tvg-name="Premiere 2 SD"tvg-id="Premiere2.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 2
 http://uniplay.link:80/814365850/ZkSH7Tb/496
-#EXTINF:-1 tvg-name="PREMIERE 2 SD"tvg-id="Premiere2.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 2 SD
+#EXTINF:-1 tvg-name="PREMIERE 2 SD"tvg-id="Premiere2.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 2
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/523
-#EXTINF:-1 tvg-name="Premiere 2 HD²"tvg-id="Premiere2.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 2 HD²
+#EXTINF:-1 tvg-name="Premiere 2 HD²"tvg-id="Premiere2.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 2
 http://uniplay.link:80/814365850/ZkSH7Tb/498
-#EXTINF:-1 tvg-name="PREMIERE 2 HD*"tvg-id="Premiere2.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 2 HD*
+#EXTINF:-1 tvg-name="PREMIERE 2 HD*"tvg-id="Premiere2.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 2
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/88565.m3u8
-#EXTINF:-1 tvg-name="PREMIERE 2 HD*"tvg-id="Premiere2.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 2 HD*
+#EXTINF:-1 tvg-name="PREMIERE 2 HD*"tvg-id="Premiere2.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 2
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/88565
-#EXTINF:-1 tvg-name="PREMIERE 2 HD"tvg-id="Premiere2.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 2 HD
+#EXTINF:-1 tvg-name="PREMIERE 2 HD"tvg-id="Premiere2.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 2
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/61.m3u8
-#EXTINF:-1 tvg-name="Premiere 2 HD"tvg-id="Premiere2.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 2 HD
+#EXTINF:-1 tvg-name="Premiere 2 HD"tvg-id="Premiere2.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 2
 http://uniplay.link:80/814365850/ZkSH7Tb/497
-#EXTINF:-1 tvg-name="PREMIERE 2 HD"tvg-id="Premiere2.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 2 HD
+#EXTINF:-1 tvg-name="PREMIERE 2 HD"tvg-id="Premiere2.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 2
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/61
-#EXTINF:-1 tvg-name="PREMIERE 2 H265*"tvg-id="Premiere2.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 2 H265*
+#EXTINF:-1 tvg-name="PREMIERE 2 H265*"tvg-id="Premiere2.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 2
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/88564.m3u8
-#EXTINF:-1 tvg-name="PREMIERE 2 H265*"tvg-id="Premiere2.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 2 H265*
+#EXTINF:-1 tvg-name="PREMIERE 2 H265*"tvg-id="Premiere2.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 2
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/88564
-#EXTINF:-1 tvg-name="Premiere 2 FHD²"tvg-id="Premiere2.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 2 FHD²
+#EXTINF:-1 tvg-name="Premiere 2 FHD²"tvg-id="Premiere2.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 2
 http://uniplay.link:80/814365850/ZkSH7Tb/127882
-#EXTINF:-1 tvg-name="PREMIERE 2 FHD*"tvg-id="Premiere2.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 2 FHD*
+#EXTINF:-1 tvg-name="PREMIERE 2 FHD*"tvg-id="Premiere2.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 2
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/88563.m3u8
-#EXTINF:-1 tvg-name="PREMIERE 2 FHD*"tvg-id="Premiere2.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 2 FHD*
+#EXTINF:-1 tvg-name="PREMIERE 2 FHD*"tvg-id="Premiere2.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 2
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/88563
-#EXTINF:-1 tvg-name="PREMIERE 2 FHD H265"tvg-id="Premiere2.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 2 FHD H265
+#EXTINF:-1 tvg-name="PREMIERE 2 FHD H265"tvg-id="Premiere2.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 2
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/274.m3u8
-#EXTINF:-1 tvg-name="PREMIERE 2 FHD H265"tvg-id="Premiere2.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 2 FHD H265
+#EXTINF:-1 tvg-name="PREMIERE 2 FHD H265"tvg-id="Premiere2.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 2
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/274
-#EXTINF:-1 tvg-name="PREMIERE 2 FHD "tvg-id="Premiere2.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",PREMIERE 2 FHD
+#EXTINF:-1 tvg-name="PREMIERE 2 FHD "tvg-id="Premiere2.br"tvg-logo="https://images2.imgbox.com/ab/a3/ehtIUqjk_o.png"group-title="Canais | Premiere",Premiere 2
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/815.m3u8
-#EXTINF:-1 tvg-name="Premiere 2 FHD"tvg-id="Premiere2.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 2 FHD
+#EXTINF:-1 tvg-name="Premiere 2 FHD"tvg-id="Premiere2.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | Premiere",Premiere 2
 http://uniplay.link:80/814365850/ZkSH7Tb/499
-#EXTINF:-1 tvg-name="PREMIERE 2 FHD "tvg-id="Premiere2.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",PREMIERE 2 FHD
+#EXTINF:-1 tvg-name="PREMIERE 2 FHD "tvg-id="Premiere2.br"tvg-logo="https://imgur.com/d6aaGgO.png"group-title="Canais | Premiere",Premiere 2
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/815
-#EXTINF:-1 tvg-name="Premiere 2 4K "tvg-id="Premiere2.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | 4K",Premiere 2 4K
+#EXTINF:-1 tvg-name="Premiere 2 4K "tvg-id="Premiere2.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png"group-title="Canais | 4K",Premiere 2
 http://uniplay.link:80/814365850/ZkSH7Tb/284579
-#EXTINF:-1 tvg-name="PPV EVENTOS EXTRAS 02"tvg-id=""tvg-logo="https://i.imgur.com/fbiTj3O.png"group-title="CANAIS | ESPORTES PPV",PPV EVENTOS EXTRAS 02
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/86511
-#EXTINF:-1 tvg-name="PPV EVENTOS EXTRAS 01"tvg-id=""tvg-logo="https://i.imgur.com/fbiTj3O.png"group-title="CANAIS | ESPORTES PPV",PPV EVENTOS EXTRAS 01
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/86510
-#EXTINF:-1 tvg-name="PPREMIERE CLUBES HD*"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",PPREMIERE CLUBES HD*
-http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/88560.m3u8
-#EXTINF:-1 tvg-name="PPREMIERE CLUBES HD*"tvg-id="Premierefchd.br"tvg-logo="http://ccdnblck.xyz:80/images/09a3df6cf7ca9c03c08907d1fb1e94d0.png"group-title="Canais | Premiere",PPREMIERE CLUBES HD*
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/88560
-#EXTINF:-1 tvg-name="PORNSTAR: CHAD ALVA"tvg-id=""tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png"group-title="Canais | Adultos +18",PORNSTAR: CHAD ALVA
-http://uniplay.link:80/814365850/ZkSH7Tb/260563
 #EXTINF:-1 tvg-name="PORNHUB✰GERMAN: WOLF WAGNER LOVE"tvg-id=""tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png"group-title="Canais | Adultos +18",PORNHUB✰GERMAN: WOLF WAGNER LOVE
 http://uniplay.link:80/814365850/ZkSH7Tb/260609
 #EXTINF:-1 tvg-name="PORNHUB✰GERMAN: USER DATE"tvg-id=""tvg-logo="http://csvus.com:80/images/6PEwSkz5HQ1kz8liUCPraFDXWPb9Dkt2.png"group-title="Canais | Adultos +18",PORNHUB✰GERMAN: USER DATE
@@ -1957,14 +1859,6 @@ http://uniplay.link:80/814365850/ZkSH7Tb/260419
 http://uniplay.link:80/814365850/ZkSH7Tb/260418
 #EXTINF:-1 tvg-name="Playboy FHD"tvg-id="Playboytv.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/ADULTOS-24-HORAS.png"group-title="Canais | Adultos +18",Playboy FHD
 http://uniplay.link:80/814365850/ZkSH7Tb/271483
-#EXTINF:-1 tvg-name="PAULISTÃO 04"tvg-id=""tvg-logo="https://i.imgur.com/SLzbKGE.png"group-title="CANAIS | ESPORTES PPV",PAULISTÃO 04
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/95855
-#EXTINF:-1 tvg-name="PAULISTÃO 03"tvg-id=""tvg-logo="https://i.imgur.com/SLzbKGE.png"group-title="CANAIS | ESPORTES PPV",PAULISTÃO 03
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/95854
-#EXTINF:-1 tvg-name="PAULISTÃO 02"tvg-id=""tvg-logo="https://i.imgur.com/SLzbKGE.png"group-title="CANAIS | ESPORTES PPV",PAULISTÃO 02
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/95853
-#EXTINF:-1 tvg-name="PAULISTÃO 01"tvg-id=""tvg-logo="https://i.imgur.com/SLzbKGE.png"group-title="CANAIS | ESPORTES PPV",PAULISTÃO 01
-http://blacktv.syscdn.xyz:80/965874585452/232545854585/95852
 #EXTINF:-1 tvg-name="PARAMOUNT SD"tvg-id="Paramounthd.br"tvg-logo="https://images2.imgbox.com/d6/02/PKZ9ucKc_o.png"group-title="Canais | Filmes & Series",PARAMOUNT SD
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/519.m3u8
 #EXTINF:-1 tvg-name="PARAMOUNT SD"tvg-id="Paramounthd.br"tvg-logo="https://i.imgur.com/hr8hSi0.png"group-title="Canais | Filmes & Series",PARAMOUNT SD
@@ -2215,39 +2109,39 @@ http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/85999.m3u8
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/85999
 #EXTINF:-1 tvg-name="Modo Viagem FHD"tvg-id="iSat.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/MODOVIAGEM.png"group-title="Canais |  Variedades ",Modo Viagem FHD
 http://uniplay.link:80/814365850/ZkSH7Tb/89181
-#EXTINF:-1 tvg-name="Megapix UHD"tvg-id="Megapix.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png"group-title="Canais | Filmes & Series",Megapix UHD
+#EXTINF:-1 tvg-name="Megapix UHD"tvg-id="Megapix.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png"group-title="Canais | Filmes & Series",Megapix
 http://uniplay.link:80/814365850/ZkSH7Tb/21257
-#EXTINF:-1 tvg-name="Megapix SD"tvg-id="Megapix.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png"group-title="Canais | Filmes & Series",Megapix SD
+#EXTINF:-1 tvg-name="Megapix SD"tvg-id="Megapix.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png"group-title="Canais | Filmes & Series",Megapix
 http://uniplay.link:80/814365850/ZkSH7Tb/689
-#EXTINF:-1 tvg-name="MEGAPIX SD"tvg-id="Megapix.br"tvg-logo="https://images2.imgbox.com/4e/a9/taPZMx4o_o.png"group-title="Canais | Filmes & Series",MEGAPIX SD
+#EXTINF:-1 tvg-name="MEGAPIX SD"tvg-id="Megapix.br"tvg-logo="https://images2.imgbox.com/4e/a9/taPZMx4o_o.png"group-title="Canais | Filmes & Series",Megapix
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/507.m3u8
-#EXTINF:-1 tvg-name="MEGAPIX SD"tvg-id="Megapix.br"tvg-logo="https://i.imgur.com/9iXOzlq.png"group-title="Canais | Filmes & Series",MEGAPIX SD
+#EXTINF:-1 tvg-name="MEGAPIX SD"tvg-id="Megapix.br"tvg-logo="https://i.imgur.com/9iXOzlq.png"group-title="Canais | Filmes & Series",Megapix
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/507
-#EXTINF:-1 tvg-name="Megapix HD²"tvg-id="Megapix.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png"group-title="Canais | Filmes & Series",Megapix HD²
+#EXTINF:-1 tvg-name="Megapix HD²"tvg-id="Megapix.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png"group-title="Canais | Filmes & Series",Megapix
 http://uniplay.link:80/814365850/ZkSH7Tb/691
-#EXTINF:-1 tvg-name="Megapix HD [LEG ]"tvg-id="Megapix.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png"group-title="Canais | Legendados",Megapix HD [LEG ]
+#EXTINF:-1 tvg-name="Megapix HD [LEG ]"tvg-id="Megapix.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png"group-title="Canais | Legendados",Megapix
 http://uniplay.link:80/814365850/ZkSH7Tb/118919
-#EXTINF:-1 tvg-name="Megapix HD"tvg-id="Megapix.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png"group-title="Canais | Filmes & Series",Megapix HD
+#EXTINF:-1 tvg-name="Megapix HD"tvg-id="Megapix.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png"group-title="Canais | Filmes & Series",Megapix
 http://uniplay.link:80/814365850/ZkSH7Tb/690
-#EXTINF:-1 tvg-name="MEGAPIX HD"tvg-id="Megapix.br"tvg-logo="https://images2.imgbox.com/4e/a9/taPZMx4o_o.png"group-title="Canais | Filmes & Series",MEGAPIX HD
+#EXTINF:-1 tvg-name="MEGAPIX HD"tvg-id="Megapix.br"tvg-logo="https://images2.imgbox.com/4e/a9/taPZMx4o_o.png"group-title="Canais | Filmes & Series",Megapix
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/51.m3u8
-#EXTINF:-1 tvg-name="MEGAPIX HD"tvg-id="Megapix.br"tvg-logo="https://i.imgur.com/9iXOzlq.png"group-title="Canais | Filmes & Series",MEGAPIX HD
+#EXTINF:-1 tvg-name="MEGAPIX HD"tvg-id="Megapix.br"tvg-logo="https://i.imgur.com/9iXOzlq.png"group-title="Canais | Filmes & Series",Megapix
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/51
-#EXTINF:-1 tvg-name="MEGAPIX FHD H265"tvg-id="Megapix.br"tvg-logo="https://images2.imgbox.com/4e/a9/taPZMx4o_o.png"group-title="Canais | Filmes & Series",MEGAPIX FHD H265
+#EXTINF:-1 tvg-name="MEGAPIX FHD H265"tvg-id="Megapix.br"tvg-logo="https://images2.imgbox.com/4e/a9/taPZMx4o_o.png"group-title="Canais | Filmes & Series",Megapix
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/263.m3u8
-#EXTINF:-1 tvg-name="MEGAPIX FHD H265"tvg-id="Megapix.br"tvg-logo="https://i.imgur.com/9iXOzlq.png"group-title="Canais | Filmes & Series",MEGAPIX FHD H265
+#EXTINF:-1 tvg-name="MEGAPIX FHD H265"tvg-id="Megapix.br"tvg-logo="https://i.imgur.com/9iXOzlq.png"group-title="Canais | Filmes & Series",Megapix
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/263
-#EXTINF:-1 tvg-name="Megapix FHD [LEG ]"tvg-id="Megapix.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png"group-title="Canais | Legendados",Megapix FHD [LEG ]
+#EXTINF:-1 tvg-name="Megapix FHD [LEG ]"tvg-id="Megapix.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png"group-title="Canais | Legendados",Megapix
 http://uniplay.link:80/814365850/ZkSH7Tb/118920
-#EXTINF:-1 tvg-name="Megapix FHD"tvg-id="Megapix.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png"group-title="Canais | Filmes & Series",Megapix FHD
+#EXTINF:-1 tvg-name="Megapix FHD"tvg-id="Megapix.br"tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png"group-title="Canais | Filmes & Series",Megapix
 http://uniplay.link:80/814365850/ZkSH7Tb/692
-#EXTINF:-1 tvg-name="MEGAPIX FHD"tvg-id="Megapix.br"tvg-logo="https://images2.imgbox.com/4e/a9/taPZMx4o_o.png"group-title="Canais | Filmes & Series",MEGAPIX FHD
+#EXTINF:-1 tvg-name="MEGAPIX FHD"tvg-id="Megapix.br"tvg-logo="https://images2.imgbox.com/4e/a9/taPZMx4o_o.png"group-title="Canais | Filmes & Series",Megapix
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/843.m3u8
-#EXTINF:-1 tvg-name="MEGAPIX FHD"tvg-id="Megapix.br"tvg-logo="https://i.imgur.com/9iXOzlq.png"group-title="Canais | Filmes & Series",MEGAPIX FHD
+#EXTINF:-1 tvg-name="MEGAPIX FHD"tvg-id="Megapix.br"tvg-logo="https://i.imgur.com/9iXOzlq.png"group-title="Canais | Filmes & Series",Megapix
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/843
-#EXTINF:-1 tvg-name="MEGAPIX 4K"tvg-id="Megapix.br"tvg-logo="https://images2.imgbox.com/4e/a9/taPZMx4o_o.png"group-title="Canais | 4K",MEGAPIX 4K
+#EXTINF:-1 tvg-name="MEGAPIX 4K"tvg-id="Megapix.br"tvg-logo="https://images2.imgbox.com/4e/a9/taPZMx4o_o.png"group-title="Canais | 4K",Megapix
 http://blacktv.syscdn.xyz:80/live/965874585452/232545854585/80565.m3u8
-#EXTINF:-1 tvg-name="MEGAPIX 4K"tvg-id="Megapix.br"tvg-logo="https://i.imgur.com/9iXOzlq.png"group-title="Canais | 4K",MEGAPIX 4K
+#EXTINF:-1 tvg-name="MEGAPIX 4K"tvg-id="Megapix.br"tvg-logo="https://i.imgur.com/9iXOzlq.png"group-title="Canais | 4K",Megapix
 http://blacktv.syscdn.xyz:80/965874585452/232545854585/80565
 #EXTINF:-1 tvg-name="Maze Runner - Trilogia"tvg-id=""tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png"group-title="Canais | Filmes 24 horas",Maze Runner - Trilogia
 http://uniplay.link:80/814365850/ZkSH7Tb/272729
